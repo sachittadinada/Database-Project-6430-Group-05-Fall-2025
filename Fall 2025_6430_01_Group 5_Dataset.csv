@@ -1,0 +1,1913 @@
+START_DATE,YEAR,CARRIER,PASSENGERS,BUSES,Type
+12/7/2020,2020,Academy,613,37,Actual
+12/7/2020,2020,C & J Bus Lines,8,1,Actual
+12/7/2020,2020,Coach USA,1605,83,Actual
+12/7/2020,2020,Greyhound,702,33,Actual
+12/7/2020,2020,HCEE - Community,1199,74,Actual
+12/7/2020,2020,Lakeland,280,13,Actual
+12/7/2020,2020,Martz,475,14,Actual
+12/7/2020,2020,NJ Transit,27174,2199,Actual
+12/7/2020,2020,Peter Pan/Bonanza,251,12,Actual
+12/7/2020,2020,Trailways,188,11,Actual
+12/7/2020,2020,TransBridge,310,12,Actual
+12/14/2020,2020,Academy,581,37,Actual
+12/14/2020,2020,C & J Bus Lines,8,1,Actual
+12/14/2020,2020,Coach USA,1604,83,Actual
+12/14/2020,2020,Greyhound,771,34,Actual
+12/14/2020,2020,HCEE - Community,1153,75,Actual
+12/14/2020,2020,Lakeland,271,12,Actual
+12/14/2020,2020,Martz,466,13,Actual
+12/14/2020,2020,NJ Transit,26444,2039,Actual
+12/14/2020,2020,Peter Pan/Bonanza,244,9,Actual
+12/14/2020,2020,Trailways,197,11,Actual
+12/14/2020,2020,TransBridge,307,12,Actual
+12/21/2020,2020,Academy,568,31,Actual
+12/21/2020,2020,C & J Bus Lines,6,1,Actual
+12/21/2020,2020,Coach USA,1475,83,Actual
+12/21/2020,2020,Greyhound,1072,40,Actual
+12/21/2020,2020,HCEE - Community,1172,69,Actual
+12/21/2020,2020,Lakeland,263,13,Actual
+12/21/2020,2020,Martz,487,13,Actual
+12/21/2020,2020,NJ Transit,25008,2125,Actual
+12/21/2020,2020,Peter Pan/Bonanza,244,9,Actual
+12/21/2020,2020,Trailways,249,11,Actual
+12/21/2020,2020,TransBridge,340,12,Actual
+12/28/2020,2020,C & J Bus Lines,6,1,Actual
+12/28/2020,2020,Coach USA,1316,80,Actual
+12/28/2020,2020,Greyhound,977,36,Actual
+12/28/2020,2020,Lakeland,224,12,Actual
+12/28/2020,2020,Martz,429,13,Actual
+12/28/2020,2020,NJ Transit,22446,2001,Actual
+12/28/2020,2020,Peter Pan/Bonanza,275,10,Actual
+12/28/2020,2020,Trailways,227,11,Actual
+12/28/2020,2020,TransBridge,224,12,Actual
+1/4/2021,2021,Academy,590,37,Actual
+1/4/2021,2021,Coach USA,1604,83,Actual
+1/4/2021,2021,Greyhound,900,34,Actual
+1/4/2021,2021,HCEE - Community,1153,75,Actual
+1/4/2021,2021,Lakeland,272,12,Actual
+1/4/2021,2021,Martz,456,13,Actual
+1/4/2021,2021,NJ Transit,25865,2146,Actual
+1/4/2021,2021,Peter Pan/Bonanza,260,9,Actual
+1/4/2021,2021,Trailways,214,10,Actual
+1/4/2021,2021,TransBridge,315,12,Actual
+1/11/2021,2021,Academy,564,37,Actual
+1/11/2021,2021,Coach USA,1611,84,Actual
+1/11/2021,2021,Greyhound,810,32,Actual
+1/11/2021,2021,HCEE - Community,1145,86,Actual
+1/11/2021,2021,Lakeland,276,12,Actual
+1/11/2021,2021,Martz,470,13,Actual
+1/11/2021,2021,NJ Transit,26156,2078,Actual
+1/11/2021,2021,Peter Pan/Bonanza,236,9,Actual
+1/11/2021,2021,Trailways,190,10,Actual
+1/11/2021,2021,TransBridge,319,12,Actual
+1/18/2021,2021,Academy,578,36,Actual
+1/18/2021,2021,Coach USA,1540,84,Actual
+1/18/2021,2021,Greyhound,875,34,Actual
+1/18/2021,2021,Lakeland,268,12,Actual
+1/18/2021,2021,Martz,470,13,Actual
+1/18/2021,2021,NJ Transit,23777,2033,Actual
+1/18/2021,2021,Peter Pan/Bonanza,257,9,Actual
+1/18/2021,2021,Trailways,194,10,Actual
+1/18/2021,2021,TransBridge,331,12,Actual
+1/25/2021,2021,Academy,569,35,Actual
+1/25/2021,2021,Coach USA,1597,84,Actual
+1/25/2021,2021,Greyhound,881,33,Actual
+1/25/2021,2021,HCEE - Community,1123,76,Actual
+1/25/2021,2021,Lakeland,272,12,Actual
+1/25/2021,2021,Martz,434,13,Actual
+1/25/2021,2021,NJ Transit,26578,2052,Actual
+1/25/2021,2021,Peter Pan/Bonanza,227,9,Actual
+1/25/2021,2021,Trailways,203,10,Actual
+1/25/2021,2021,TransBridge,315,12,Actual
+2/1/2021,2021,Academy,569,35,Actual
+2/1/2021,2021,Coach USA,1533,84,Actual
+2/1/2021,2021,Greyhound,996,36,Actual
+2/1/2021,2021,HCEE - Community,1123,76,Actual
+2/1/2021,2021,Lakeland,272,12,Actual
+2/1/2021,2021,Martz,444,13,Actual
+2/1/2021,2021,NJ Transit,25001,2071,Actual
+2/1/2021,2021,Peter Pan/Bonanza,250,9,Actual
+2/1/2021,2021,Trailways,221,10,Actual
+2/1/2021,2021,TransBridge,316,12,Actual
+2/8/2021,2021,Academy,582,35,Actual
+2/8/2021,2021,Coach USA,1572,84,Actual
+2/8/2021,2021,Greyhound,869,34,Actual
+2/8/2021,2021,HCEE - Community,935,75,Actual
+2/8/2021,2021,Lakeland,271,12,Actual
+2/8/2021,2021,Martz,462,13,Actual
+2/8/2021,2021,NJ Transit,26683,2043,Actual
+2/8/2021,2021,Peter Pan/Bonanza,288,10,Actual
+2/8/2021,2021,Trailways,199,10,Actual
+2/8/2021,2021,TransBridge,324,12,Actual
+2/15/2021,2021,Academy,623,35,Actual
+2/15/2021,2021,Coach USA,1461,81,Actual
+2/15/2021,2021,Greyhound,848,34,Actual
+2/15/2021,2021,HCEE - Community,885,73,Actual
+2/15/2021,2021,Lakeland,271,12,Actual
+2/15/2021,2021,Martz,446,13,Actual
+2/15/2021,2021,NJ Transit,27430,2281,Actual
+2/15/2021,2021,Peter Pan/Bonanza,300,9,Actual
+2/15/2021,2021,Trailways,222,9,Actual
+2/15/2021,2021,TransBridge,341,12,Actual
+2/22/2021,2021,Academy,577,32,Actual
+2/22/2021,2021,Coach USA,1522,83,Actual
+2/22/2021,2021,Greyhound,831,33,Actual
+2/22/2021,2021,HCEE - Community,1117,78,Actual
+2/22/2021,2021,Lakeland,273,12,Actual
+2/22/2021,2021,Martz,455,13,Actual
+2/22/2021,2021,NJ Transit,27440,2077,Actual
+2/22/2021,2021,Peter Pan/Bonanza,240,9,Actual
+2/22/2021,2021,Trailways,225,10,Actual
+2/22/2021,2021,TransBridge,310,12,Actual
+3/2/2021,2021,Academy,577,32,Actual
+3/2/2021,2021,Coach USA,1621,83,Actual
+3/2/2021,2021,Greyhound,976,35,Actual
+3/2/2021,2021,HCEE - Community,1171,71,Actual
+3/2/2021,2021,Lakeland,291,12,Actual
+3/2/2021,2021,Martz,498,13,Actual
+3/2/2021,2021,NJ Transit,29104,2095,Actual
+3/2/2021,2021,Peter Pan/Bonanza,247,9,Actual
+3/2/2021,2021,Trailways,232,10,Actual
+3/2/2021,2021,TransBridge,353,12,Actual
+3/8/2021,2021,Academy,728,36,Actual
+3/8/2021,2021,Coach USA,1649,83,Actual
+3/8/2021,2021,Greyhound,976,35,Actual
+3/8/2021,2021,HCEE - Community,1212,82,Actual
+3/8/2021,2021,Lakeland,299,12,Actual
+3/8/2021,2021,Martz,474,14,Actual
+3/8/2021,2021,NJ Transit,28670,2089,Actual
+3/8/2021,2021,Peter Pan/Bonanza,281,10,Actual
+3/8/2021,2021,Trailways,264,11,Actual
+3/8/2021,2021,TransBridge,353,12,Actual
+3/15/2021,2021,Academy,728,36,Actual
+3/15/2021,2021,Coach USA,1635,84,Actual
+3/15/2021,2021,Greyhound,1077,36,Actual
+3/15/2021,2021,HCEE - Community,1217,87,Actual
+3/15/2021,2021,Lakeland,292,12,Actual
+3/15/2021,2021,Martz,494,14,Actual
+3/15/2021,2021,NJ Transit,27807,2124,Actual
+3/15/2021,2021,Peter Pan/Bonanza,325,10,Actual
+3/15/2021,2021,Trailways,268,11,Actual
+3/15/2021,2021,TransBridge,358,12,Actual
+3/22/2021,2021,Academy,667,36,Actual
+3/22/2021,2021,Coach USA,1666,84,Actual
+3/22/2021,2021,Greyhound,1142,37,Actual
+3/22/2021,2021,HCEE - Community,1240,89,Actual
+3/22/2021,2021,Lakeland,305,13,Actual
+3/22/2021,2021,Martz,505,14,Actual
+3/22/2021,2021,NJ Transit,27453,2031,Actual
+3/22/2021,2021,Peter Pan/Bonanza,389,12,Actual
+3/22/2021,2021,Trailways,268,11,Actual
+3/22/2021,2021,TransBridge,354,12,Actual
+3/29/2021,2021,Academy,644,36,Actual
+3/29/2021,2021,Coach USA,1626,84,Actual
+3/29/2021,2021,Greyhound,1310,40,Actual
+3/29/2021,2021,HCEE - Community,1234,89,Actual
+3/29/2021,2021,Lakeland,297,13,Actual
+3/29/2021,2021,Martz,516,14,Actual
+3/29/2021,2021,NJ Transit,28648,2120,Actual
+3/29/2021,2021,Peter Pan/Bonanza,620,18,Actual
+3/29/2021,2021,Trailways,371,13,Actual
+3/29/2021,2021,TransBridge,374,12,Actual
+4/5/2021,2021,Academy,628,36,Actual
+4/5/2021,2021,Coach USA,1748,83,Actual
+4/5/2021,2021,Greyhound,1343,44,Actual
+4/5/2021,2021,HCEE - Community,1234,89,Actual
+4/5/2021,2021,Lakeland,283,14,Actual
+4/5/2021,2021,Martz,498,14,Actual
+4/5/2021,2021,NJ Transit,30200,2226,Actual
+4/5/2021,2021,Peter Pan/Bonanza,518,16,Actual
+4/5/2021,2021,Trailways,381,15,Actual
+4/5/2021,2021,TransBridge,369,12,Actual
+4/12/2021,2021,Academy,628,36,Actual
+4/12/2021,2021,Coach USA,1740,84,Actual
+4/12/2021,2021,Greyhound,1249,43,Actual
+4/12/2021,2021,HCEE - Community,1272,84,Actual
+4/12/2021,2021,Lakeland,298,14,Actual
+4/12/2021,2021,Martz,509,14,Actual
+4/12/2021,2021,NJ Transit,29680,2247,Actual
+4/12/2021,2021,Peter Pan/Bonanza,399,16,Actual
+4/12/2021,2021,Trailways,336,13,Actual
+4/12/2021,2021,TransBridge,357,12,Actual
+4/19/2021,2021,Academy,710,36,Actual
+4/19/2021,2021,Coach USA,1714,81,Actual
+4/19/2021,2021,Greyhound,1255,46,Actual
+4/19/2021,2021,HCEE - Community,1275,93,Actual
+4/19/2021,2021,Lakeland,313,14,Actual
+4/19/2021,2021,Martz,504,14,Actual
+4/19/2021,2021,NJ Transit,31549,2123,Actual
+4/19/2021,2021,Peter Pan/Bonanza,478,16,Actual
+4/19/2021,2021,Trailways,328,13,Actual
+4/19/2021,2021,TransBridge,365,12,Actual
+4/26/2021,2021,Academy,710,36,Actual
+4/26/2021,2021,Coach USA,1793,84,Actual
+4/26/2021,2021,Greyhound,1146,41,Actual
+4/26/2021,2021,HCEE - Community,1210,90,Actual
+4/26/2021,2021,Lakeland,322,14,Actual
+4/26/2021,2021,Martz,502,14,Actual
+4/26/2021,2021,NJ Transit,32474,2263,Actual
+4/26/2021,2021,Peter Pan/Bonanza,456,16,Actual
+4/26/2021,2021,Trailways,324,13,Actual
+4/26/2021,2021,TransBridge,369,12,Actual
+5/3/2021,2021,Academy,689,36,Actual
+5/3/2021,2021,Coach USA,1846,85,Actual
+5/3/2021,2021,Greyhound,1161,40,Actual
+5/3/2021,2021,HCEE - Community,1069,91,Actual
+5/3/2021,2021,Lakeland,331,14,Actual
+5/3/2021,2021,Martz,555,28,Actual
+5/3/2021,2021,NJ Transit,31768,2234,Actual
+5/3/2021,2021,Peter Pan/Bonanza,504,19,Actual
+5/3/2021,2021,Trailways,353,13,Actual
+5/3/2021,2021,TransBridge,373,12,Actual
+5/10/2021,2021,Academy,689,36,Actual
+5/10/2021,2021,Coach USA,1906,84,Actual
+5/10/2021,2021,Greyhound,1228,41,Actual
+5/10/2021,2021,HCEE - Community,1369,85,Actual
+5/10/2021,2021,Lakeland,350,14,Actual
+5/10/2021,2021,Martz,528,14,Actual
+5/10/2021,2021,NJ Transit,32304,2227,Actual
+5/10/2021,2021,Peter Pan/Bonanza,632,20,Actual
+5/10/2021,2021,Trailways,383,14,Actual
+5/10/2021,2021,TransBridge,386,12,Actual
+5/17/2021,2021,Academy,699,36,Actual
+5/17/2021,2021,Coach USA,1929,84,Actual
+5/17/2021,2021,Greyhound,1277,43,Actual
+5/17/2021,2021,HCEE - Community,1322,88,Actual
+5/17/2021,2021,Lakeland,374,14,Actual
+5/17/2021,2021,Martz,541,14,Actual
+5/17/2021,2021,NJ Transit,33781,2118,Actual
+5/17/2021,2021,Peter Pan/Bonanza,740,24,Actual
+5/17/2021,2021,Trailways,405,13,Actual
+5/17/2021,2021,TransBridge,399,12,Actual
+5/24/2021,2021,Academy,699,36,Actual
+5/24/2021,2021,Coach USA,2003,86,Actual
+5/24/2021,2021,Greyhound,1492,51,Actual
+5/24/2021,2021,HCEE - Community,1322,88,Actual
+5/24/2021,2021,Lakeland,395,14,Actual
+5/24/2021,2021,Martz,608,30,Actual
+5/24/2021,2021,NJ Transit,34615,2245,Actual
+5/24/2021,2021,Peter Pan/Bonanza,619,21,Actual
+5/24/2021,2021,Trailways,409,15,Actual
+5/24/2021,2021,TransBridge,426,12,Actual
+5/31/2021,2021,Academy,763,36,Actual
+5/31/2021,2021,Coach USA,2076,87,Actual
+5/31/2021,2021,Greyhound,1494,54,Actual
+5/31/2021,2021,HCEE - Community,1322,88,Actual
+5/31/2021,2021,Lakeland,403,14,Actual
+5/31/2021,2021,Martz,573,15,Actual
+5/31/2021,2021,NJ Transit,35698,2238,Actual
+5/31/2021,2021,Trailways,398,16,Actual
+5/31/2021,2021,TransBridge,421,12,Actual
+6/7/2021,2021,Academy,763,36,Actual
+6/7/2021,2021,Coach USA,2172,90,Actual
+6/7/2021,2021,Greyhound,1384,51,Actual
+6/7/2021,2021,HCEE - Community,1446,96,Actual
+6/7/2021,2021,Lakeland,445,19,Actual
+6/7/2021,2021,Martz,610,15,Actual
+6/7/2021,2021,NJ Transit,35636,2261,Actual
+6/7/2021,2021,Peter Pan/Bonanza,570,21,Actual
+6/7/2021,2021,Trailways,363,15,Actual
+6/7/2021,2021,TransBridge,409,13,Actual
+6/14/2021,2021,Academy,792,36,Actual
+6/14/2021,2021,Coach USA,2306,91,Actual
+6/14/2021,2021,DeCamp,87,16,Actual
+6/14/2021,2021,Greyhound,1477,52,Actual
+6/14/2021,2021,HCEE - Community,1346,95,Actual
+6/14/2021,2021,Lakeland,480,19,Actual
+6/14/2021,2021,Martz,613,15,Actual
+6/14/2021,2021,NJ Transit,39437,2188,Actual
+6/14/2021,2021,Peter Pan/Bonanza,674,21,Actual
+6/14/2021,2021,Trailways,426,17,Actual
+6/14/2021,2021,TransBridge,440,13,Actual
+6/21/2021,2021,Academy,789,36,Actual
+6/21/2021,2021,Coach USA,2347,91,Actual
+6/21/2021,2021,DeCamp,118,16,Actual
+6/21/2021,2021,Greyhound,1535,55,Actual
+6/21/2021,2021,HCEE - Community,1448,94,Actual
+6/21/2021,2021,Lakeland,505,19,Actual
+6/21/2021,2021,Martz,635,16,Actual
+6/21/2021,2021,NJ Transit,39951,2215,Actual
+6/21/2021,2021,Peter Pan/Bonanza,855,30,Actual
+6/21/2021,2021,Trailways,428,17,Actual
+6/21/2021,2021,TransBridge,465,14,Actual
+6/28/2021,2021,Academy,923,36,Actual
+6/28/2021,2021,Coach USA,2363,92,Actual
+6/28/2021,2021,DeCamp,132,16,Actual
+6/28/2021,2021,Greyhound,1819,60,Actual
+6/28/2021,2021,HCEE - Community,1448,94,Actual
+6/28/2021,2021,Lakeland,512,20,Actual
+6/28/2021,2021,Martz,669,17,Actual
+6/28/2021,2021,NJ Transit,39282,2126,Actual
+6/28/2021,2021,Peter Pan/Bonanza,1102,31,Actual
+6/28/2021,2021,Trailways,479,17,Actual
+6/28/2021,2021,TransBridge,454,14,Actual
+7/5/2021,2021,Academy,778,35,Actual
+7/5/2021,2021,Coach USA,2459,94,Actual
+7/5/2021,2021,DeCamp,155,16,Actual
+7/5/2021,2021,Greyhound,1850,61,Actual
+7/5/2021,2021,HCEE - Community,1437,93,Actual
+7/5/2021,2021,Lakeland,543,20,Actual
+7/5/2021,2021,Martz,686,18,Actual
+7/5/2021,2021,NJ Transit,39100,2126,Actual
+7/5/2021,2021,Peter Pan/Bonanza,1262,34,Actual
+7/5/2021,2021,Trailways,492,19,Actual
+7/5/2021,2021,TransBridge,480,14,Actual
+7/12/2021,2021,Academy,843,35,Actual
+7/12/2021,2021,Coach USA,2630,95,Actual
+7/12/2021,2021,DeCamp,188,16,Actual
+7/12/2021,2021,Greyhound,1850,61,Actual
+7/12/2021,2021,HCEE - Community,1437,93,Actual
+7/12/2021,2021,Lakeland,557,20,Actual
+7/12/2021,2021,Martz,670,17,Actual
+7/12/2021,2021,NJ Transit,40256,2135,Actual
+7/12/2021,2021,Peter Pan/Bonanza,1262,34,Actual
+7/12/2021,2021,Trailways,421,17,Actual
+7/12/2021,2021,TransBridge,467,14,Actual
+7/19/2021,2021,Academy,869,35,Actual
+7/19/2021,2021,Coach USA,2716,99,Actual
+7/19/2021,2021,DeCamp,194,16,Actual
+7/19/2021,2021,Greyhound,1685,58,Actual
+7/19/2021,2021,HCEE - Community,1455,89,Actual
+7/19/2021,2021,Lakeland,579,20,Actual
+7/19/2021,2021,Martz,704,17,Actual
+7/19/2021,2021,NJ Transit,39440,2097,Actual
+7/19/2021,2021,Peter Pan/Bonanza,819,25,Actual
+7/19/2021,2021,Trailways,451,17,Actual
+7/19/2021,2021,TransBridge,495,15,Actual
+7/26/2021,2021,Academy,872,35,Actual
+7/26/2021,2021,Coach USA,2776,101,Actual
+7/26/2021,2021,DeCamp,189,16,Actual
+7/26/2021,2021,Greyhound,1672,59,Actual
+7/26/2021,2021,HCEE - Community,1530,94,Actual
+7/26/2021,2021,Lakeland,578,20,Actual
+7/26/2021,2021,Martz,680,17,Actual
+7/26/2021,2021,NJ Transit,40047,2080,Actual
+7/26/2021,2021,Peter Pan/Bonanza,770,25,Actual
+7/26/2021,2021,Trailways,468,17,Actual
+7/26/2021,2021,TransBridge,484,15,Actual
+8/2/2021,2021,Academy,869,36,Actual
+8/2/2021,2021,Coach USA,2740,102,Actual
+8/2/2021,2021,DeCamp,198,16,Actual
+8/2/2021,2021,Greyhound,1724,60,Actual
+8/2/2021,2021,HCEE - Community,1530,94,Actual
+8/2/2021,2021,Lakeland,582,20,Actual
+8/2/2021,2021,Martz,695,17,Actual
+8/2/2021,2021,NJ Transit,40106,2116,Actual
+8/2/2021,2021,Peter Pan/Bonanza,790,25,Actual
+8/2/2021,2021,Trailways,464,18,Actual
+8/2/2021,2021,Trans-Bridge,495,15,Actual
+8/9/2021,2021,Academy,826,35,Actual
+8/9/2021,2021,Coach USA,2666,103,Actual
+8/9/2021,2021,DeCamp,182,16,Actual
+8/9/2021,2021,Greyhound,1890,58,Actual
+8/9/2021,2021,HCEE - Community,1558,99,Actual
+8/9/2021,2021,Lakeland,582,20,Actual
+8/9/2021,2021,Martz,697,17,Actual
+8/9/2021,2021,NJ Transit,40372,2140,Actual
+8/9/2021,2021,Peter Pan/Bonanza,835,25,Actual
+8/9/2021,2021,Trailways,469,17,Actual
+8/9/2021,2021,Trans-Bridge,479,15,Actual
+8/16/2021,2021,Academy,770,35,Actual
+8/16/2021,2021,Coach USA,2669,107,Actual
+8/16/2021,2021,DeCamp,212,16,Actual
+8/16/2021,2021,Greyhound,1723,58,Actual
+8/16/2021,2021,HCEE - Community,1507,99,Actual
+8/16/2021,2021,Lakeland,555,20,Actual
+8/16/2021,2021,Martz,662,17,Actual
+8/16/2021,2021,NJ Transit,40215,2133,Actual
+8/16/2021,2021,Peter Pan/Bonanza,968,31,Actual
+8/16/2021,2021,Trailways,495,18,Actual
+8/16/2021,2021,Trans-Bridge,468,17,Actual
+8/23/2021,2021,Academy,780,35,Actual
+8/23/2021,2021,Coach USA,2555,110,Actual
+8/23/2021,2021,DeCamp,203,16,Actual
+8/23/2021,2021,Greyhound,1888,59,Actual
+8/23/2021,2021,HCEE - Community,1438,90,Actual
+8/23/2021,2021,Lakeland,551,20,Actual
+8/23/2021,2021,Martz,652,17,Actual
+8/23/2021,2021,NJ Transit,40837,2141,Actual
+8/23/2021,2021,Peter Pan/Bonanza,908,26,Actual
+8/23/2021,2021,Trailways,516,19,Actual
+8/23/2021,2021,Trans-Bridge,458,17,Actual
+8/30/2021,2021,Academy,799,35,Actual
+8/30/2021,2021,Coach USA,2521,109,Actual
+8/30/2021,2021,DeCamp,199,16,Actual
+8/30/2021,2021,Greyhound,1687,58,Actual
+8/30/2021,2021,HCEE - Community,1426,92,Actual
+8/30/2021,2021,Lakeland,521,20,Actual
+8/30/2021,2021,Martz,622,17,Actual
+8/30/2021,2021,NJ Transit,36433,2019,Actual
+8/30/2021,2021,Peter Pan/Bonanza,709,24,Actual
+8/30/2021,2021,Trailways,498,18,Actual
+8/30/2021,2021,Trans-Bridge,420,17,Actual
+9/6/2021,2021,Academy,791,34,Actual
+9/6/2021,2021,Coach USA,2864,108,Actual
+9/6/2021,2021,DeCamp,218,16,Actual
+9/6/2021,2021,Greyhound,1707,61,Actual
+9/6/2021,2021,HCEE - Community,1441,82,Actual
+9/6/2021,2021,Lakeland,604,25,Actual
+9/6/2021,2021,Martz,679,17,Actual
+9/6/2021,2021,NJ Transit,41099,2132,Actual
+9/6/2021,2021,Peter Pan/Bonanza,776,24,Actual
+9/6/2021,2021,Trailways,680,21,Actual
+9/6/2021,2021,Trans-Bridge,500,17,Actual
+9/13/2021,2021,Academy,952,34,Actual
+9/13/2021,2021,Coach USA,3155,121,Actual
+9/13/2021,2021,DeCamp,257,16,Actual
+9/13/2021,2021,Greyhound,1388,59,Actual
+9/13/2021,2021,HCEE - Community,1534,93,Actual
+9/13/2021,2021,Lakeland,674,25,Actual
+9/13/2021,2021,Martz,693,17,Actual
+9/13/2021,2021,NJ Transit,45441,2120,Actual
+9/13/2021,2021,Peter Pan/Bonanza,618,28,Actual
+9/13/2021,2021,Trailways,370,18,Actual
+9/13/2021,2021,Trans-Bridge,525,17,Actual
+9/20/2021,2021,Academy,1007,33,Actual
+9/20/2021,2021,Coach USA,3321,123,Actual
+9/20/2021,2021,DeCamp,264,16,Actual
+9/20/2021,2021,Greyhound,1351,56,Actual
+9/20/2021,2021,HCEE - Community,1600,97,Actual
+9/20/2021,2021,Lakeland,673,25,Actual
+9/20/2021,2021,Martz,695,17,Actual
+9/20/2021,2021,NJ Transit,45660,2138,Actual
+9/20/2021,2021,Peter Pan/Bonanza,689,28,Actual
+9/20/2021,2021,Trailways,397,17,Actual
+9/20/2021,2021,Trans-Bridge,547,17,Actual
+9/27/2021,2021,Academy,970,34,Actual
+9/27/2021,2021,Coach USA,3351,125,Actual
+9/27/2021,2021,DeCamp,274,16,Actual
+9/27/2021,2021,Greyhound,1306,55,Actual
+9/27/2021,2021,HCEE - Community,1600,97,Actual
+9/27/2021,2021,Lakeland,692,25,Actual
+9/27/2021,2021,Martz,688,17,Actual
+9/27/2021,2021,NJ Transit,45840,2146,Actual
+9/27/2021,2021,Peter Pan/Bonanza,761,29,Actual
+9/27/2021,2021,Trailways,395,17,Actual
+9/27/2021,2021,Trans-Bridge,527,17,Actual
+10/4/2021,2021,Academy,1016,34,Actual
+10/4/2021,2021,Coach USA,3498,124,Actual
+10/4/2021,2021,DeCamp,277,16,Actual
+10/4/2021,2021,Greyhound,1219,55,Actual
+10/4/2021,2021,HCEE - Community,1555,101,Actual
+10/4/2021,2021,Lakeland,710,25,Actual
+10/4/2021,2021,Martz,708,17,Actual
+10/4/2021,2021,NJ Transit,48102,2153,Actual
+10/4/2021,2021,Peter Pan/Bonanza,720,29,Actual
+10/4/2021,2021,Trailways,411,17,Actual
+10/4/2021,2021,Trans-Bridge,575,17,Actual
+10/11/2021,2021,Academy,1052,34,Actual
+10/11/2021,2021,Coach USA,3623,144,Actual
+10/11/2021,2021,DeCamp,288,16,Actual
+10/11/2021,2021,Greyhound,1538,59,Actual
+10/11/2021,2021,HCEE - Community,1660,100,Actual
+10/11/2021,2021,Lakeland,785,25,Actual
+10/11/2021,2021,Martz,755,17,Actual
+10/11/2021,2021,NJ Transit,48954,2147,Actual
+10/11/2021,2021,Peter Pan/Bonanza,922,29,Actual
+10/11/2021,2021,Trailways,879,24,Actual
+10/11/2021,2021,Trans-Bridge,596,18,Actual
+10/18/2021,2021,Academy,1063,33,Actual
+10/18/2021,2021,Coach USA,3626,126,Actual
+10/18/2021,2021,DeCamp,277,16,Actual
+10/18/2021,2021,Greyhound,1300,54,Actual
+10/18/2021,2021,HCEE - Community,1579,93,Actual
+10/18/2021,2021,Lakeland,759,25,Actual
+10/18/2021,2021,Martz,735,18,Actual
+10/18/2021,2021,NJ Transit,49531,2139,Actual
+10/18/2021,2021,Peter Pan/Bonanza,763,29,Actual
+10/18/2021,2021,Trailways,482,18,Actual
+10/18/2021,2021,Trans-Bridge,557,18,Actual
+10/25/2021,2021,Academy,1015,33,Actual
+10/25/2021,2021,Coach USA,3434,126,Actual
+10/25/2021,2021,DeCamp,263,16,Actual
+10/25/2021,2021,Greyhound,1230,53,Actual
+10/25/2021,2021,HCEE - Community,1545,89,Actual
+10/25/2021,2021,Lakeland,701,25,Actual
+10/25/2021,2021,Martz,715,18,Actual
+10/25/2021,2021,NJ Transit,50615,2137,Actual
+10/25/2021,2021,Peter Pan/Bonanza,741,29,Actual
+10/25/2021,2021,Trailways,421,17,Actual
+10/25/2021,2021,Trans-Bridge,533,18,Actual
+11/1/2021,2021,Academy,999,35,Actual
+11/1/2021,2021,Coach USA,3624,125,Actual
+11/1/2021,2021,DeCamp,338,33,Actual
+11/1/2021,2021,Greyhound,1296,54,Actual
+11/1/2021,2021,HCEE - Community,1575,98,Actual
+11/1/2021,2021,Lakeland,825,29,Actual
+11/1/2021,2021,Martz,718,18,Actual
+11/1/2021,2021,NJ Transit,50514,2131,Actual
+11/1/2021,2021,Peter Pan/Bonanza,774,29,Actual
+11/1/2021,2021,Trailways,379,17,Actual
+11/1/2021,2021,Trans-Bridge,551,18,Actual
+11/8/2021,2021,Academy,998,35,Actual
+11/8/2021,2021,Coach USA,3753,125,Actual
+11/8/2021,2021,DeCamp,380,37,Actual
+11/8/2021,2021,Greyhound,1241,54,Actual
+11/8/2021,2021,HCEE - Community,1616,96,Actual
+11/8/2021,2021,Lakeland,809,29,Actual
+11/8/2021,2021,Martz,724,18,Actual
+11/8/2021,2021,NJ Transit,52268,2120,Actual
+11/8/2021,2021,Peter Pan/Bonanza,733,29,Actual
+11/8/2021,2021,Trailways,438,18,Actual
+11/8/2021,2021,Trans-Bridge,595,18,Actual
+11/15/2021,2021,Academy,1098,33,Actual
+11/15/2021,2021,Coach USA,3777,126,Actual
+11/15/2021,2021,DeCamp,406,37,Actual
+11/15/2021,2021,Greyhound,1219,54,Actual
+11/15/2021,2021,HCEE - Community,1652,99,Actual
+11/15/2021,2021,Lakeland,815,29,Actual
+11/15/2021,2021,Martz,738,18,Actual
+11/15/2021,2021,NJ Transit,51546,2127,Actual
+11/15/2021,2021,Peter Pan/Bonanza,697,29,Actual
+11/15/2021,2021,Trailways,437,19,Actual
+11/15/2021,2021,Trans-Bridge,567,18,Actual
+11/29/2021,2021,Academy,1103,36,Actual
+11/29/2021,2021,Coach USA,3908,129,Actual
+11/29/2021,2021,DeCamp,428,37,Actual
+11/29/2021,2021,Greyhound,1408,55,Actual
+11/29/2021,2021,HCEE - Community,1638,92,Actual
+11/29/2021,2021,Lakeland,863,29,Actual
+11/29/2021,2021,Martz,713,18,Actual
+11/29/2021,2021,NJ Transit,51761,2155,Actual
+11/29/2021,2021,Peter Pan/Bonanza,733,27,Actual
+11/29/2021,2021,Trailways,578,21,Actual
+11/29/2021,2021,Trans-Bridge,562,18,Actual
+12/6/2021,2021,Academy,1043,35,Actual
+12/6/2021,2021,Coach USA,3680,128,Actual
+12/6/2021,2021,DeCamp,411,37,Actual
+12/6/2021,2021,Greyhound,1098,54,Actual
+12/6/2021,2021,HCEE - Community,1669,94,Actual
+12/6/2021,2021,Lakeland,796,29,Actual
+12/6/2021,2021,Martz,738,18,Actual
+12/6/2021,2021,NJ Transit,51723,2149,Actual
+12/6/2021,2021,Peter Pan/Bonanza,578,28,Actual
+12/6/2021,2021,Trailways,405,19,Actual
+12/6/2021,2021,Trans-Bridge,575,18,Actual
+12/13/2021,2021,Academy,990,35,Actual
+12/13/2021,2021,Coach USA,3693,127,Actual
+12/13/2021,2021,DeCamp,408,37,Actual
+12/13/2021,2021,Greyhound,1213,55,Actual
+12/13/2021,2021,HCEE - Community,1678,96,Actual
+12/13/2021,2021,Lakeland,790,29,Actual
+12/13/2021,2021,Martz,739,18,Actual
+12/13/2021,2021,NJ Transit,49981,2154,Actual
+12/13/2021,2021,Peter Pan/Bonanza,657,29,Actual
+12/13/2021,2021,Trailways,408,19,Actual
+12/13/2021,2021,Trans-Bridge,580,18,Actual
+12/20/2021,2021,NJ Transit,38741,2138,Actual
+1/3/2022,2022,Academy,626,36,Actual
+1/3/2022,2022,Coach USA,2375,128,Actual
+1/3/2022,2022,DeCamp,231,37,Actual
+1/3/2022,2022,Greyhound,1213,55,Actual
+1/3/2022,2022,HCEE - Community,1678,96,Actual
+1/3/2022,2022,Lakeland,476,25,Actual
+1/3/2022,2022,Martz,554,17,Actual
+1/3/2022,2022,NJ Transit,33589,1977,Actual
+1/3/2022,2022,Peter Pan/Bonanza,595,25,Actual
+1/3/2022,2022,Trailways,330,18,Actual
+1/3/2022,2022,Trans-Bridge,356,17,Actual
+1/10/2022,2022,Academy,659,35,Actual
+1/10/2022,2022,Coach USA,2381,124,Actual
+1/10/2022,2022,DeCamp,239,35,Actual
+1/10/2022,2022,Greyhound,765,42,Actual
+1/10/2022,2022,HCEE - Community,1169,82,Actual
+1/10/2022,2022,Lakeland,474,25,Actual
+1/10/2022,2022,Martz,570,17,Actual
+1/10/2022,2022,NJ Transit,37462,2140,Actual
+1/10/2022,2022,Peter Pan/Bonanza,384,25,Actual
+1/10/2022,2022,Trailways,300,19,Actual
+1/10/2022,2022,Trans-Bridge,363,18,Actual
+1/17/2022,2022,Academy,775,34,Actual
+1/17/2022,2022,Coach USA,2685,123,Actual
+1/17/2022,2022,DeCamp,286,37,Actual
+1/17/2022,2022,Greyhound,765,42,Actual
+1/17/2022,2022,HCEE - Community,1235,81,Actual
+1/17/2022,2022,Lakeland,543,25,Actual
+1/17/2022,2022,Martz,606,17,Actual
+1/17/2022,2022,NJ Transit,40408,2151,Actual
+1/17/2022,2022,Peter Pan/Bonanza,471,25,Actual
+1/17/2022,2022,Trailways,379,18,Actual
+1/17/2022,2022,Trans-Bridge,420,18,Actual
+1/24/2022,2022,Academy,815,35,Actual
+1/24/2022,2022,Coach USA,2874,129,Actual
+1/24/2022,2022,DeCamp,305,37,Actual
+1/24/2022,2022,Greyhound,919,45,Actual
+1/24/2022,2022,HCEE - Community,1256,81,Actual
+1/24/2022,2022,Lakeland,583,25,Actual
+1/24/2022,2022,Martz,640,17,Actual
+1/24/2022,2022,NJ Transit,40685,2158,Actual
+1/24/2022,2022,Peter Pan/Bonanza,410,22,Actual
+1/24/2022,2022,Trailways,327,17,Actual
+1/24/2022,2022,Trans-Bridge,432,18,Actual
+1/31/2022,2022,Academy,849,35,Actual
+1/31/2022,2022,Coach USA,3188,130,Actual
+1/31/2022,2022,DeCamp,343,37,Actual
+1/31/2022,2022,Greyhound,852,40,Actual
+1/31/2022,2022,HCEE - Community,827,52,Actual
+1/31/2022,2022,Lakeland,616,25,Actual
+1/31/2022,2022,Martz,643,17,Actual
+1/31/2022,2022,NJ Transit,45373,2153,Actual
+1/31/2022,2022,Peter Pan/Bonanza,395,18,Actual
+1/31/2022,2022,Trailways,338,18,Actual
+1/31/2022,2022,Trans-Bridge,452,18,Actual
+2/7/2022,2022,Academy,938,35,Actual
+2/7/2022,2022,Coach USA,3338,130,Actual
+2/7/2022,2022,DeCamp,384,37,Actual
+2/7/2022,2022,Greyhound,869,42,Actual
+2/7/2022,2022,HCEE - Community,846,60,Actual
+2/7/2022,2022,Lakeland,667,25,Actual
+2/7/2022,2022,Martz,656,17,Actual
+2/7/2022,2022,NJ Transit,46402,2154,Actual
+2/7/2022,2022,Peter Pan/Bonanza,421,18,Actual
+2/7/2022,2022,Trailways,336,19,Actual
+2/7/2022,2022,Trans-Bridge,490,18,Actual
+2/14/2022,2022,Academy,954,34,Actual
+2/14/2022,2022,Coach USA,3625,130,Actual
+2/14/2022,2022,DeCamp,422,37,Actual
+2/14/2022,2022,Greyhound,1057,44,Actual
+2/14/2022,2022,HCEE - Community,774,56,Actual
+2/14/2022,2022,Lakeland,740,25,Actual
+2/14/2022,2022,Martz,670,17,Actual
+2/14/2022,2022,NJ Transit,47466,2144,Actual
+2/14/2022,2022,Peter Pan/Bonanza,523,20,Actual
+2/14/2022,2022,Trailways,384,19,Actual
+2/14/2022,2022,Trans-Bridge,517,18,Actual
+2/21/2022,2022,Academy,998,34,Actual
+2/21/2022,2022,Coach USA,3555,130,Actual
+2/21/2022,2022,DeCamp,431,37,Actual
+2/21/2022,2022,Greyhound,1280,43,Actual
+2/21/2022,2022,HCEE - Community,788,57,Actual
+2/21/2022,2022,Lakeland,757,25,Actual
+2/21/2022,2022,Martz,719,17,Actual
+2/21/2022,2022,NJ Transit,48692,2147,Actual
+2/21/2022,2022,Peter Pan/Bonanza,647,20,Actual
+2/21/2022,2022,Trailways,473,20,Actual
+2/21/2022,2022,Trans-Bridge,541,18,Actual
+2/28/2022,2022,Academy,988,35,Actual
+2/28/2022,2022,Coach USA,3756,129,Actual
+2/28/2022,2022,DeCamp,460,37,Actual
+2/28/2022,2022,Greyhound,1006,40,Actual
+2/28/2022,2022,HCEE - Community,1429,83,Actual
+2/28/2022,2022,Lakeland,760,25,Actual
+2/28/2022,2022,Martz,673,16,Actual
+2/28/2022,2022,NJ Transit,51417,2160,Actual
+2/28/2022,2022,Peter Pan/Bonanza,569,21,Actual
+2/28/2022,2022,Trailways,418,19,Actual
+2/28/2022,2022,Trans-Bridge,547,18,Actual
+3/7/2022,2022,Academy,1054,35,Actual
+3/7/2022,2022,Coach USA,4111,130,Actual
+3/7/2022,2022,DeCamp,487,37,Actual
+3/7/2022,2022,Greyhound,1201,44,Actual
+3/7/2022,2022,HCEE - Community,1587,85,Actual
+3/7/2022,2022,Lakeland,995,27,Actual
+3/7/2022,2022,Martz,736,17,Actual
+3/7/2022,2022,NJ Transit,48835,2158,Actual
+3/7/2022,2022,Peter Pan/Bonanza,622,22,Actual
+3/7/2022,2022,Trailways,460,19,Actual
+3/7/2022,2022,Trans-Bridge,567,18,Actual
+3/14/2022,2022,Academy,1077,35,Actual
+3/14/2022,2022,Coach USA,4270,129,Actual
+3/14/2022,2022,DeCamp,509,37,Actual
+3/14/2022,2022,Greyhound,1409,45,Actual
+3/14/2022,2022,HCEE - Community,1602,86,Actual
+3/14/2022,2022,Lakeland,1114,30,Actual
+3/14/2022,2022,Martz,776,17,Actual
+3/14/2022,2022,NJ Transit,53623,2156,Actual
+3/14/2022,2022,Peter Pan/Bonanza,902,24,Actual
+3/14/2022,2022,Trailways,508,19,Actual
+3/14/2022,2022,Trans-Bridge,596,18,Actual
+3/21/2022,2022,Academy,1110,35,Actual
+3/21/2022,2022,Coach USA,4257,131,Actual
+3/21/2022,2022,DeCamp,498,37,Actual
+3/21/2022,2022,Greyhound,1362,45,Actual
+3/21/2022,2022,HCEE - Community,1368,86,Actual
+3/21/2022,2022,Lakeland,945,29,Actual
+3/21/2022,2022,Martz,760,18,Actual
+3/21/2022,2022,NJ Transit,53698,2157,Actual
+3/21/2022,2022,Peter Pan/Bonanza,809,24,Actual
+3/21/2022,2022,Trailways,553,20,Actual
+3/21/2022,2022,Trans-Bridge,599,18,Actual
+3/28/2022,2022,Academy,1138,35,Actual
+3/28/2022,2022,Coach USA,4338,130,Actual
+3/28/2022,2022,DeCamp,514,37,Actual
+3/28/2022,2022,Greyhound,1271,46,Actual
+3/28/2022,2022,HCEE - Community,1419,85,Actual
+3/28/2022,2022,Lakeland,943,28,Actual
+3/28/2022,2022,Martz,751,18,Actual
+3/28/2022,2022,NJ Transit,53814,2141,Actual
+3/28/2022,2022,Peter Pan/Bonanza,722,23,Actual
+3/28/2022,2022,Trailways,483,20,Actual
+3/28/2022,2022,Trans-Bridge,598,18,Actual
+4/4/2022,2022,Academy,1152,35,Actual
+4/4/2022,2022,Coach USA,4463,133,Actual
+4/4/2022,2022,DeCamp,524,39,Actual
+4/4/2022,2022,Greyhound,1297,46,Actual
+4/4/2022,2022,HCEE - Community,1366,86,Actual
+4/4/2022,2022,Lakeland,1009,28,Actual
+4/4/2022,2022,Martz,767,18,Actual
+4/4/2022,2022,NJ Transit,53966,2142,Actual
+4/4/2022,2022,Peter Pan/Bonanza,649,23,Actual
+4/4/2022,2022,Trailways,474,19,Actual
+4/4/2022,2022,Trans-Bridge,612,19,Actual
+4/11/2022,2022,Academy,1104,35,Actual
+4/11/2022,2022,Coach USA,4214,133,Actual
+4/11/2022,2022,DeCamp,523,40,Actual
+4/11/2022,2022,Greyhound,1483,47,Actual
+4/11/2022,2022,HCEE - Community,1468,87,Actual
+4/11/2022,2022,Lakeland,953,30,Actual
+4/11/2022,2022,Martz,775,18,Actual
+4/11/2022,2022,NJ Transit,55168,2156,Actual
+4/11/2022,2022,Peter Pan/Bonanza,914,26,Actual
+4/11/2022,2022,Trailways,520,19,Actual
+4/11/2022,2022,Trans-Bridge,632,19,Actual
+4/18/2022,2022,Academy,966,33,Actual
+4/18/2022,2022,Coach USA,3953,129,Actual
+4/18/2022,2022,DeCamp,496,40,Actual
+4/18/2022,2022,Greyhound,1641,48,Actual
+4/18/2022,2022,HCEE - Community,1402,84,Actual
+4/18/2022,2022,Lakeland,868,30,Actual
+4/18/2022,2022,Martz,733,18,Actual
+4/18/2022,2022,NJ Transit,55503,2165,Actual
+4/18/2022,2022,Peter Pan/Bonanza,1191,29,Actual
+4/18/2022,2022,Trailways,696,22,Actual
+4/18/2022,2022,Trans-Bridge,624,19,Actual
+4/25/2022,2022,Academy,1127,34,Actual
+4/25/2022,2022,Coach USA,4443,133,Actual
+4/25/2022,2022,DeCamp,563,40,Actual
+4/25/2022,2022,Greyhound,1307,47,Actual
+4/25/2022,2022,HCEE - Community,1402,84,Actual
+4/25/2022,2022,Lakeland,1026,30,Actual
+4/25/2022,2022,Martz,753,18,Actual
+4/25/2022,2022,NJ Transit,55714,2148,Actual
+4/25/2022,2022,Peter Pan/Bonanza,661,25,Actual
+4/25/2022,2022,Trailways,496,20,Actual
+4/25/2022,2022,Trans-Bridge,605,19,Actual
+5/2/2022,2022,Academy,1152,35,Actual
+5/2/2022,2022,Coach USA,4175,135,Actual
+5/2/2022,2022,DeCamp,550,40,Actual
+5/2/2022,2022,Greyhound,1336,46,Actual
+5/2/2022,2022,HCEE - Community,1077,79,Actual
+5/2/2022,2022,Lakeland,997,30,Actual
+5/2/2022,2022,Martz,740,17,Actual
+5/2/2022,2022,NJ Transit,55820,2146,Actual
+5/2/2022,2022,Peter Pan/Bonanza,688,24,Actual
+5/2/2022,2022,Trailways,533,20,Actual
+5/2/2022,2022,Trans-Bridge,619,19,Actual
+5/9/2022,2022,Coach USA,4504,132,Actual
+5/9/2022,2022,DeCamp,560,40,Actual
+5/9/2022,2022,Greyhound,1435,46,Actual
+5/9/2022,2022,HCEE - Community,1399,87,Actual
+5/9/2022,2022,Lakeland,1028,30,Actual
+5/9/2022,2022,Martz,764,18,Actual
+5/9/2022,2022,NJ Transit,56979,2148,Actual
+5/9/2022,2022,Peter Pan/Bonanza,713,25,Actual
+5/9/2022,2022,Trailways,552,21,Actual
+5/9/2022,2022,Trans-Bridge,622,19,Actual
+5/16/2022,2022,Academy,1140,35,Actual
+5/16/2022,2022,Coach USA,4441,131,Actual
+5/16/2022,2022,DeCamp,568,40,Actual
+5/16/2022,2022,Greyhound,1466,46,Actual
+5/16/2022,2022,HCEE - Community,1541,86,Actual
+5/16/2022,2022,Lakeland,1019,30,Actual
+5/16/2022,2022,Martz,772,18,Actual
+5/16/2022,2022,NJ Transit,58236,2136,Actual
+5/16/2022,2022,Peter Pan/Bonanza,814,25,Actual
+5/16/2022,2022,Trailways,594,20,Actual
+5/16/2022,2022,Trans-Bridge,633,19,Actual
+5/23/2022,2022,Academy,1112,35,Actual
+5/23/2022,2022,Coach USA,4444,132,Actual
+5/23/2022,2022,DeCamp,554,40,Actual
+5/23/2022,2022,Greyhound,1526,47,Actual
+5/23/2022,2022,HCEE - Community,1421,78,Actual
+5/23/2022,2022,Lakeland,1036,29,Actual
+5/23/2022,2022,Martz,776,18,Actual
+5/23/2022,2022,NJ Transit,56937,2156,Actual
+5/23/2022,2022,Peter Pan/Bonanza,895,25,Actual
+5/23/2022,2022,Trailways,667,22,Actual
+5/23/2022,2022,Trans-Bridge,634,19,Actual
+5/30/2022,2022,Academy,1094,34,Actual
+5/30/2022,2022,Coach USA,4397,134,Actual
+5/30/2022,2022,DeCamp,552,40,Actual
+5/30/2022,2022,Greyhound,1521,49,Actual
+5/30/2022,2022,HCEE - Community,1529,87,Actual
+5/30/2022,2022,Lakeland,979,29,Actual
+5/30/2022,2022,Martz,798,20,Actual
+5/30/2022,2022,NJ Transit,58023,2155,Actual
+5/30/2022,2022,Peter Pan/Bonanza,1076,29,Actual
+5/30/2022,2022,Trailways,645,26,Actual
+5/30/2022,2022,Trans-Bridge,626,19,Actual
+6/6/2022,2022,Academy,1189,35,Actual
+6/6/2022,2022,Coach USA,4754,132,Actual
+6/6/2022,2022,DeCamp,582,39,Actual
+6/6/2022,2022,Greyhound,1485,50,Actual
+6/6/2022,2022,HCEE - Community,1428,86,Actual
+6/6/2022,2022,Lakeland,1101,29,Actual
+6/6/2022,2022,Martz,761,19,Actual
+6/6/2022,2022,NJ Transit,59534,2150,Actual
+6/6/2022,2022,Peter Pan/Bonanza,803,25,Actual
+6/6/2022,2022,Trailways,434,27,Actual
+6/6/2022,2022,Trans-Bridge,635,18,Actual
+6/13/2022,2022,Academy,1179,35,Actual
+6/13/2022,2022,Coach USA,4854,135,Actual
+6/13/2022,2022,DeCamp,581,40,Actual
+6/13/2022,2022,Greyhound,1519,49,Actual
+6/13/2022,2022,HCEE - Community,1436,81,Actual
+6/13/2022,2022,Lakeland,1132,29,Actual
+6/13/2022,2022,Martz,799,19,Actual
+6/13/2022,2022,NJ Transit,60188,2144,Actual
+6/13/2022,2022,Peter Pan/Bonanza,891,27,Actual
+6/13/2022,2022,Trailways,477,27,Actual
+6/13/2022,2022,Trans-Bridge,651,19,Actual
+6/20/2022,2022,Academy,1187,34,Actual
+6/20/2022,2022,Coach USA,4848,133,Actual
+6/20/2022,2022,DeCamp,574,40,Actual
+6/20/2022,2022,Greyhound,1576,51,Actual
+6/20/2022,2022,HCEE - Community,1508,84,Actual
+6/20/2022,2022,Lakeland,1128,29,Actual
+6/20/2022,2022,Martz,804,19,Actual
+6/20/2022,2022,NJ Transit,59197,2150,Actual
+6/20/2022,2022,Peter Pan/Bonanza,990,30,Actual
+6/20/2022,2022,Trailways,543,27,Actual
+6/20/2022,2022,Trans-Bridge,654,19,Actual
+6/27/2022,2022,Academy,1113,34,Actual
+6/27/2022,2022,Coach USA,4626,138,Actual
+6/27/2022,2022,DeCamp,578,39,Actual
+6/27/2022,2022,Greyhound,1744,53,Actual
+6/27/2022,2022,HCEE - Community,1536,85,Actual
+6/27/2022,2022,Lakeland,1078,29,Actual
+6/27/2022,2022,Martz,821,19,Actual
+6/27/2022,2022,NJ Transit,59908,2154,Actual
+6/27/2022,2022,Peter Pan/Bonanza,1184,32,Actual
+6/27/2022,2022,Trailways,624,28,Actual
+6/27/2022,2022,Trans-Bridge,589,19,Actual
+7/4/2022,2022,Academy,1025,33,Actual
+7/4/2022,2022,Coach USA,4320,140,Actual
+7/4/2022,2022,DeCamp,514,37,Actual
+7/4/2022,2022,Greyhound,1722,52,Actual
+7/4/2022,2022,HCEE - Community,1574,85,Actual
+7/4/2022,2022,Lakeland,1008,29,Actual
+7/4/2022,2022,Martz,801,20,Actual
+7/4/2022,2022,NJ Transit,57393,2162,Actual
+7/4/2022,2022,Peter Pan/Bonanza,1331,36,Actual
+7/4/2022,2022,Trailways,691,28,Actual
+7/4/2022,2022,Trans-Bridge,595,19,Actual
+7/11/2022,2022,Academy,1096,34,Actual
+7/11/2022,2022,Coach USA,4643,140,Actual
+7/11/2022,2022,DeCamp,553,36,Actual
+7/11/2022,2022,Greyhound,1739,52,Actual
+7/11/2022,2022,HCEE - Community,1639,84,Actual
+7/11/2022,2022,Lakeland,1110,29,Actual
+7/11/2022,2022,Martz,789,19,Actual
+7/11/2022,2022,NJ Transit,59080,2169,Actual
+7/11/2022,2022,Peter Pan/Bonanza,908,31,Actual
+7/11/2022,2022,Trailways,592,27,Actual
+7/11/2022,2022,Trans-Bridge,608,19,Actual
+7/18/2022,2022,Academy,1152,70,Actual
+7/18/2022,2022,Coach USA,4654,140,Actual
+7/18/2022,2022,DeCamp,539,36,Actual
+7/18/2022,2022,Greyhound,1763,52,Actual
+7/18/2022,2022,HCEE - Community,1489,84,Actual
+7/18/2022,2022,Lakeland,1047,29,Actual
+7/18/2022,2022,Martz,773,19,Actual
+7/18/2022,2022,NJ Transit,59980,2172,Actual
+7/18/2022,2022,Peter Pan/Bonanza,993,31,Actual
+7/18/2022,2022,Trailways,595,26,Actual
+7/18/2022,2022,Trans-Bridge,590,19,Actual
+7/25/2022,2022,Academy,1115,34,Actual
+7/25/2022,2022,Coach USA,4612,139,Actual
+7/25/2022,2022,DeCamp,534,35,Actual
+7/25/2022,2022,Greyhound,1796,53,Actual
+7/25/2022,2022,HCEE - Community,1489,84,Actual
+7/25/2022,2022,Lakeland,1102,29,Actual
+7/25/2022,2022,Martz,766,19,Actual
+7/25/2022,2022,NJ Transit,62063,2183,Actual
+7/25/2022,2022,Peter Pan/Bonanza,1002,30,Actual
+7/25/2022,2022,Trailways,608,27,Actual
+7/25/2022,2022,Trans-Bridge,532,19,Actual
+8/8/2022,2022,Academy,1087,34,Actual
+8/8/2022,2022,Coach USA,4464,139,Actual
+8/8/2022,2022,DeCamp,534,36,Actual
+8/8/2022,2022,Greyhound,1806,53,Actual
+8/8/2022,2022,HCEE - Community,1478,85,Actual
+8/8/2022,2022,Lakeland,1062,29,Actual
+8/8/2022,2022,Martz,798,19,Actual
+8/8/2022,2022,NJ Transit,60754,2186,Actual
+8/8/2022,2022,Peter Pan/Bonanza,1066,31,Actual
+8/8/2022,2022,Trailways,594,27,Actual
+8/8/2022,2022,Trans-Bridge,456,19,Actual
+8/22/2022,2022,Academy,1051,35,Actual
+8/22/2022,2022,Coach USA,4347,136,Actual
+8/22/2022,2022,DeCamp,552,36,Actual
+8/22/2022,2022,Greyhound,1822,52,Actual
+8/22/2022,2022,HCEE - Community,1579,87,Actual
+8/22/2022,2022,Lakeland,1022,29,Actual
+8/22/2022,2022,Martz,783,19,Actual
+8/22/2022,2022,NJ Transit,59128,2187,Actual
+8/22/2022,2022,Peter Pan/Bonanza,1161,32,Actual
+8/22/2022,2022,Trailways,698,26,Actual
+8/22/2022,2022,Trans-Bridge,422,19,Actual
+9/5/2022,2022,Academy,1120,33,Actual
+9/5/2022,2022,Coach USA,4695,137,Actual
+9/5/2022,2022,DeCamp,561,36,Actual
+9/5/2022,2022,Greyhound,1505,50,Actual
+9/5/2022,2022,HCEE - Community,1494,71,Actual
+9/5/2022,2022,Lakeland,1114,29,Actual
+9/5/2022,2022,Martz,851,20,Actual
+9/5/2022,2022,NJ Transit,63179,2185,Actual
+9/5/2022,2022,Peter Pan/Bonanza,1107,32,Actual
+9/5/2022,2022,Trailways,605,26,Actual
+9/5/2022,2022,Trans-Bridge,553,19,Actual
+9/19/2022,2022,Academy,1214,35,Actual
+9/19/2022,2022,Coach USA,5014,141,Actual
+9/19/2022,2022,DeCamp,639,36,Actual
+9/19/2022,2022,Greyhound,1458,51,Actual
+9/19/2022,2022,HCEE - Community,1756,75,Actual
+9/19/2022,2022,Lakeland,1171,29,Actual
+9/19/2022,2022,Martz,811,21,Actual
+9/19/2022,2022,NJ Transit,68532,2165,Actual
+9/19/2022,2022,Peter Pan/Bonanza,798,24,Actual
+9/19/2022,2022,Trailways,461,25,Actual
+9/19/2022,2022,Trans-Bridge,521,19,Actual
+10/3/2022,2022,Academy,1176,35,Actual
+10/3/2022,2022,Coach USA,4847,142,Actual
+10/3/2022,2022,DeCamp,601,36,Actual
+10/3/2022,2022,Greyhound,1397,51,Actual
+10/3/2022,2022,HCEE - Community,1715,86,Actual
+10/3/2022,2022,Lakeland,1158,29,Actual
+10/3/2022,2022,Martz,800,21,Actual
+10/3/2022,2022,NJ Transit,58688,2213,Actual
+10/3/2022,2022,Peter Pan/Bonanza,772,24,Actual
+10/3/2022,2022,Trailways,450,25,Actual
+10/3/2022,2022,Trans-Bridge,514,19,Actual
+10/17/2022,2022,Academy,1202,34,Actual
+10/17/2022,2022,Coach USA,5004,147,Actual
+10/17/2022,2022,DeCamp,650,36,Actual
+10/17/2022,2022,Greyhound,1505,51,Actual
+10/17/2022,2022,HCEE - Community,1780,86,Actual
+10/17/2022,2022,Lakeland,1203,29,Actual
+10/17/2022,2022,Martz,811,21,Actual
+10/17/2022,2022,NJ Transit,68879,2211,Actual
+10/17/2022,2022,Peter Pan/Bonanza,796,24,Actual
+10/17/2022,2022,Trailways,514,24,Actual
+10/17/2022,2022,Trans-Bridge,585,18,Actual
+10/31/2022,2022,Academy,1193,35,Actual
+10/31/2022,2022,Coach USA,5033,147,Actual
+10/31/2022,2022,DeCamp,620,36,Actual
+10/31/2022,2022,Greyhound,1408,52,Actual
+10/31/2022,2022,HCEE - Community,1416,82,Actual
+10/31/2022,2022,Lakeland,1199,28,Actual
+10/31/2022,2022,Martz,808,21,Actual
+10/31/2022,2022,NJ Transit,68826,2213,Actual
+10/31/2022,2022,Peter Pan/Bonanza,759,23,Actual
+10/31/2022,2022,Trailways,494,24,Actual
+10/31/2022,2022,Trans-Bridge,554,18,Actual
+11/14/2022,2022,Academy,1137,34,Actual
+11/14/2022,2022,Coach USA,4754,147,Actual
+11/14/2022,2022,DeCamp,623,36,Actual
+11/14/2022,2022,Greyhound,1268,50,Actual
+11/14/2022,2022,HCEE - Community,1532,87,Actual
+11/14/2022,2022,Lakeland,1178,29,Actual
+11/14/2022,2022,Martz,750,20,Actual
+11/14/2022,2022,NJ Transit,65587,2205,Actual
+11/14/2022,2022,Peter Pan/Bonanza,732,24,Actual
+11/14/2022,2022,Trailways,428,24,Actual
+11/14/2022,2022,Trans-Bridge,631,18,Actual
+12/5/2022,2022,Academy,1186,35,Actual
+12/5/2022,2022,Coach USA,4925,148,Actual
+12/5/2022,2022,DeCamp,636,36,Actual
+12/5/2022,2022,Greyhound,1176,52,Actual
+12/5/2022,2022,HCEE - Community,1552,82,Actual
+12/5/2022,2022,Lakeland,1205,30,Actual
+12/5/2022,2022,Martz,823,20,Actual
+12/5/2022,2022,NJ Transit,67342,2191,Actual
+12/5/2022,2022,Peter Pan/Bonanza,649,24,Actual
+12/5/2022,2022,Trailways,401,24,Actual
+12/5/2022,2022,Trans-Bridge,632,18,Actual
+12/19/2022,2022,Academy,954,35,Actual
+12/19/2022,2022,Coach USA,4088,143,Actual
+12/19/2022,2022,DeCamp,511,36,Actual
+12/19/2022,2022,Greyhound,1460,51,Actual
+12/19/2022,2022,HCEE - Community,1542,84,Actual
+12/19/2022,2022,Lakeland,1011,29,Actual
+12/19/2022,2022,Martz,821,19,Actual
+12/19/2022,2022,NJ Transit,60735,2189,Actual
+12/19/2022,2022,Peter Pan/Bonanza,1449,33,Actual
+12/19/2022,2022,Trailways,515,23,Actual
+12/19/2022,2022,Trans-Bridge,665,19,Actual
+1/2/2023,2023,Academy,1085,32,Actual
+1/2/2023,2023,Coach USA,4560,138,Actual
+1/2/2023,2023,DeCamp,601,36,Actual
+1/2/2023,2023,Greyhound,1450,52,Actual
+1/2/2023,2023,HCEE - Community,1440,81,Actual
+1/2/2023,2023,Lakeland,1240,29,Actual
+1/2/2023,2023,Martz,743,19,Actual
+1/2/2023,2023,NJ Transit,64872,2197,Actual
+1/2/2023,2023,Peter Pan/Bonanza,1183,28,Actual
+1/2/2023,2023,Trailways,577,24,Actual
+1/2/2023,2023,Trans-Bridge,601,18,Actual
+1/16/2023,2023,Academy,1266,35,Actual
+1/16/2023,2023,Coach USA,5102,146,Actual
+1/16/2023,2023,DeCamp,658,36,Actual
+1/16/2023,2023,Greyhound,1139,51,Actual
+1/16/2023,2023,HCEE - Community,1440,81,Actual
+1/16/2023,2023,Lakeland,1266,29,Actual
+1/16/2023,2023,Martz,817,20,Actual
+1/16/2023,2023,NJ Transit,65994,2213,Actual
+1/16/2023,2023,Peter Pan/Bonanza,811,26,Actual
+1/16/2023,2023,Trailways,473,22,Actual
+1/16/2023,2023,Trans-Bridge,659,18,Actual
+1/30/2023,2023,Academy,1263,35,Actual
+1/30/2023,2023,Coach USA,5178,149,Actual
+1/30/2023,2023,DeCamp,692,38,Actual
+1/30/2023,2023,Greyhound,1015,48,Actual
+1/30/2023,2023,HCEE - Community,1804,89,Actual
+1/30/2023,2023,Lakeland,1242,29,Actual
+1/30/2023,2023,Martz,791,20,Actual
+1/30/2023,2023,NJ Transit,66135,2218,Actual
+1/30/2023,2023,Peter Pan/Bonanza,811,26,Actual
+1/30/2023,2023,Trailways,424,22,Actual
+1/30/2023,2023,Trans-Bridge,665,20,Actual
+2/13/2023,2023,Academy,1217,35,Actual
+2/13/2023,2023,Coach USA,4949,147,Actual
+2/13/2023,2023,DeCamp,654,38,Actual
+2/13/2023,2023,Greyhound,1112,47,Actual
+2/13/2023,2023,HCEE - Community,1515,82,Actual
+2/13/2023,2023,Lakeland,1243,29,Actual
+2/13/2023,2023,Martz,755,20,Actual
+2/13/2023,2023,NJ Transit,66914,2268,Actual
+2/13/2023,2023,Peter Pan/Bonanza,867,27,Actual
+2/13/2023,2023,Trailways,406,22,Actual
+2/13/2023,2023,Trans-Bridge,628,20,Actual
+2/27/2023,2023,Academy,1034,31,Actual
+2/27/2023,2023,Coach USA,4510,142,Actual
+2/27/2023,2023,DeCamp,606,38,Actual
+2/27/2023,2023,Greyhound,722,44,Actual
+2/27/2023,2023,HCEE - Community,1681,82,Actual
+2/27/2023,2023,Lakeland,1129,29,Actual
+2/27/2023,2023,Martz,658,18,Actual
+2/27/2023,2023,NJ Transit,68070,2261,Actual
+2/27/2023,2023,Peter Pan/Bonanza,795,26,Actual
+2/27/2023,2023,Trailways,459,21,Actual
+2/27/2023,2023,Trans-Bridge,607,20,Actual
+3/13/2023,2023,Academy,1229,35,Actual
+3/13/2023,2023,Coach USA,5086,146,Actual
+3/13/2023,2023,DeCamp,664,39,Actual
+3/13/2023,2023,Greyhound,722,43,Actual
+3/13/2023,2023,HCEE - Community,1487,85,Actual
+3/13/2023,2023,Lakeland,1202,28,Actual
+3/13/2023,2023,Martz,713,17,Actual
+3/13/2023,2023,NJ Transit,70286,2257,Actual
+3/13/2023,2023,Peter Pan/Bonanza,838,27,Actual
+3/13/2023,2023,Trailways,391,17,Actual
+3/13/2023,2023,Trans-Bridge,651,21,Actual
+3/27/2023,2023,Academy,1277,35,Actual
+3/27/2023,2023,Coach USA,4981,147,Actual
+3/27/2023,2023,DeCamp,656,38,Actual
+3/27/2023,2023,Greyhound,1253,50,Actual
+3/27/2023,2023,HCEE - Community,1489,83,Actual
+3/27/2023,2023,Lakeland,1258,29,Actual
+3/27/2023,2023,Martz,759,20,Actual
+3/27/2023,2023,NJ Transit,69952,2257,Actual
+3/27/2023,2023,Peter Pan/Bonanza,838,27,Actual
+3/27/2023,2023,Trailways,391,21,Actual
+3/27/2023,2023,Trans-Bridge,644,21,Actual
+4/10/2023,2023,Academy,1061,36,Actual
+4/10/2023,2023,Coach USA,4535,147,Actual
+4/10/2023,2023,Greyhound,1541,50,Actual
+4/10/2023,2023,HCEE - Community,1519,78,Actual
+4/10/2023,2023,Lakeland,1219,29,Actual
+4/10/2023,2023,Martz,759,20,Actual
+4/10/2023,2023,NJ Transit,70034,2314,Actual
+4/10/2023,2023,Peter Pan/Bonanza,1120,30,Actual
+4/10/2023,2023,Trailways,676,25,Actual
+4/10/2023,2023,Trans-Bridge,662,21,Actual
+4/24/2023,2023,Academy,1269,37,Actual
+4/24/2023,2023,Coach USA,5022,148,Actual
+4/24/2023,2023,Greyhound,1272,49,Actual
+4/24/2023,2023,HCEE - Community,1122,84,Actual
+4/24/2023,2023,Lakeland,1371,29,Actual
+4/24/2023,2023,Martz,756,19,Actual
+4/24/2023,2023,NJ Transit,73189,2349,Actual
+4/24/2023,2023,Peter Pan/Bonanza,952,27,Actual
+4/24/2023,2023,Trailways,428,21,Actual
+4/24/2023,2023,Trans-Bridge,665,21,Actual
+5/8/2023,2023,Academy,1242,37,Actual
+5/8/2023,2023,Coach USA,5138,147,Actual
+5/8/2023,2023,Greyhound,1433,50,Actual
+5/8/2023,2023,HCEE - Community,1498,84,Actual
+5/8/2023,2023,Lakeland,1378,29,Actual
+5/8/2023,2023,Martz,771,20,Actual
+5/8/2023,2023,NJ Transit,73697,2331,Actual
+5/8/2023,2023,Peter Pan/Bonanza,851,26,Actual
+5/8/2023,2023,Trailways,495,22,Actual
+5/8/2023,2023,Trans-Bridge,698,21,Actual
+5/22/2023,2023,Academy,1248,37,Actual
+5/22/2023,2023,Coach USA,5209,150,Actual
+5/22/2023,2023,Greyhound,1720,53,Actual
+5/22/2023,2023,HCEE - Community,1379,80,Actual
+5/22/2023,2023,Lakeland,1372,29,Actual
+5/22/2023,2023,Martz,804,20,Actual
+5/22/2023,2023,NJ Transit,74807,2344,Actual
+5/22/2023,2023,Peter Pan/Bonanza,851,26,Actual
+5/22/2023,2023,Trailways,646,23,Actual
+5/22/2023,2023,Trans-Bridge,713,21,Actual
+6/5/2023,2023,Academy,1176,35,Actual
+6/5/2023,2023,Coach USA,4995,153,Actual
+6/5/2023,2023,Greyhound,1499,54,Actual
+6/5/2023,2023,HCEE - Community,1379,80,Actual
+6/5/2023,2023,Lakeland,1338,28,Actual
+6/5/2023,2023,Martz,786,20,Actual
+6/5/2023,2023,NJ Transit,73857,2336,Actual
+6/5/2023,2023,Peter Pan/Bonanza,698,24,Actual
+6/5/2023,2023,Trailways,498,21,Actual
+6/5/2023,2023,Trans-Bridge,680,23,Actual
+6/19/2023,2023,Academy,1094,34,Actual
+6/19/2023,2023,Coach USA,4718,150,Actual
+6/19/2023,2023,Greyhound,1933,61,Actual
+6/19/2023,2023,HCEE - Community,1301,84,Actual
+6/19/2023,2023,Lakeland,1488,29,Actual
+6/19/2023,2023,Martz,744,19,Actual
+6/19/2023,2023,NJ Transit,76199,2325,Actual
+6/19/2023,2023,Peter Pan/Bonanza,698,24,Actual
+6/19/2023,2023,Trailways,602,22,Actual
+6/19/2023,2023,Trans-Bridge,654,24,Actual
+7/3/2023,2023,Academy,914,32,Actual
+7/3/2023,2023,Coach USA,3592,120,Actual
+7/3/2023,2023,Greyhound,2093,63,Actual
+7/3/2023,2023,HCEE - Community,1203,75,Actual
+7/3/2023,2023,Lakeland,951,33,Actual
+7/3/2023,2023,Martz,624,16,Actual
+7/3/2023,2023,NJ Transit,68146,2361,Actual
+7/3/2023,2023,Peter Pan/Bonanza,698,24,Actual
+7/3/2023,2023,Trailways,729,25,Actual
+7/3/2023,2023,Trans-Bridge,508,20,Actual
+7/17/2023,2023,Academy,1269,38,Actual
+7/17/2023,2023,Coach USA,5320,152,Actual
+7/17/2023,2023,Greyhound,2150,62,Actual
+7/17/2023,2023,HCEE - Community,1399,87,Actual
+7/17/2023,2023,Lakeland,1387,42,Actual
+7/17/2023,2023,Martz,778,18,Actual
+7/17/2023,2023,NJ Transit,75292,2359,Actual
+7/17/2023,2023,Peter Pan/Bonanza,725,23,Actual
+7/17/2023,2023,Trailways,714,24,Actual
+7/17/2023,2023,Trans-Bridge,697,24,Actual
+7/31/2023,2023,Academy,1212,38,Actual
+7/31/2023,2023,Coach USA,5123,153,Actual
+7/31/2023,2023,Greyhound,2318,64,Actual
+7/31/2023,2023,HCEE - Community,1434,82,Actual
+7/31/2023,2023,Lakeland,1317,43,Actual
+7/31/2023,2023,Martz,786,19,Actual
+7/31/2023,2023,NJ Transit,75725,2368,Actual
+7/31/2023,2023,Peter Pan/Bonanza,745,23,Actual
+7/31/2023,2023,Trailways,720,24,Actual
+7/31/2023,2023,Trans-Bridge,679,24,Actual
+8/14/2023,2023,Academy,1169,38,Actual
+8/14/2023,2023,Coach USA,4896,151,Actual
+8/14/2023,2023,Greyhound,2341,62,Actual
+8/14/2023,2023,HCEE - Community,1344,81,Actual
+8/14/2023,2023,Lakeland,1286,42,Actual
+8/14/2023,2023,Martz,769,19,Actual
+8/14/2023,2023,NJ Transit,75043,2357,Actual
+8/14/2023,2023,Peter Pan/Bonanza,745,23,Actual
+8/14/2023,2023,Trailways,774,25,Actual
+8/14/2023,2023,Trans-Bridge,676,24,Actual
+8/28/2023,2023,Academy,1087,38,Actual
+8/28/2023,2023,Coach USA,4527,151,Actual
+8/28/2023,2023,Greyhound,2112,62,Actual
+8/28/2023,2023,HCEE - Community,1263,83,Actual
+8/28/2023,2023,Lakeland,1209,42,Actual
+8/28/2023,2023,Martz,735,18,Actual
+8/28/2023,2023,NJ Transit,70560,2362,Actual
+8/28/2023,2023,Peter Pan/Bonanza,745,23,Actual
+8/28/2023,2023,Trailways,640,24,Actual
+8/28/2023,2023,Trans-Bridge,627,24,Actual
+9/11/2023,2023,Academy,1318,38,Actual
+9/11/2023,2023,Coach USA,5166,150,Actual
+9/11/2023,2023,Greyhound,1686,63,Actual
+9/11/2023,2023,HCEE - Community,1420,86,Actual
+9/11/2023,2023,Lakeland,1539,42,Actual
+9/11/2023,2023,Martz,754,18,Actual
+9/11/2023,2023,NJ Transit,78912,2426,Actual
+9/11/2023,2023,Peter Pan/Bonanza,745,23,Actual
+9/11/2023,2023,Trailways,509,24,Actual
+9/11/2023,2023,Trans-Bridge,695,24,Actual
+9/25/2023,2023,Academy,1542,44,Actual
+9/25/2023,2023,Coach USA,5198,151,Actual
+9/25/2023,2023,Greyhound,1644,61,Actual
+9/25/2023,2023,HCEE - Community,1420,86,Actual
+9/25/2023,2023,Lakeland,1360,42,Actual
+9/25/2023,2023,Martz,758,19,Actual
+9/25/2023,2023,NJ Transit,80018,2413,Actual
+9/25/2023,2023,Peter Pan/Bonanza,745,23,Actual
+9/25/2023,2023,Trailways,488,23,Actual
+9/25/2023,2023,Trans-Bridge,685,23,Actual
+10/9/2023,2023,Academy,1136,40,Actual
+10/9/2023,2023,Coach USA,4862,154,Actual
+10/9/2023,2023,Greyhound,1670,60,Actual
+10/9/2023,2023,HCEE - Community,1420,86,Actual
+10/9/2023,2023,Lakeland,1377,44,Actual
+10/9/2023,2023,Martz,734,19,Actual
+10/9/2023,2023,NJ Transit,81192,2439,Actual
+10/9/2023,2023,Peter Pan/Bonanza,745,23,Actual
+10/9/2023,2023,Trailways,886,27,Actual
+10/9/2023,2023,Trans-Bridge,580,21,Actual
+10/23/2023,2023,Academy,1258,44,Actual
+10/23/2023,2023,Coach USA,5505,162,Actual
+10/23/2023,2023,Greyhound,1593,59,Actual
+10/23/2023,2023,HCEE - Community,1560,89,Actual
+10/23/2023,2023,Lakeland,1403,43,Actual
+10/23/2023,2023,Martz,780,19,Actual
+10/23/2023,2023,NJ Transit,81890,2419,Actual
+10/23/2023,2023,Peter Pan/Bonanza,745,23,Actual
+10/23/2023,2023,Trailways,580,22,Actual
+10/23/2023,2023,Trans-Bridge,709,23,Actual
+11/6/2023,2023,Academy,1254,44,Actual
+11/6/2023,2023,Coach USA,5156,164,Actual
+11/6/2023,2023,Greyhound,1536,60,Actual
+11/6/2023,2023,HCEE - Community,1509,85,Actual
+11/6/2023,2023,Lakeland,1403,43,Actual
+11/6/2023,2023,Martz,741,19,Actual
+11/6/2023,2023,NJ Transit,81608,2381,Actual
+11/6/2023,2023,Peter Pan/Bonanza,594,22,Actual
+11/6/2023,2023,Trailways,456,22,Actual
+11/6/2023,2023,Trans-Bridge,691,23,Actual
+11/13/2023,2023,Academy,1073,40,Actual
+11/13/2023,2023,Coach USA,3895,134,Actual
+11/13/2023,2023,Greyhound,1981,60,Actual
+11/13/2023,2023,HCEE - Community,1457,85,Actual
+11/13/2023,2023,Lakeland,1380,43,Actual
+11/13/2023,2023,Martz,821,18,Actual
+11/13/2023,2023,NJ Transit,64572,2358,Actual
+11/13/2023,2023,Peter Pan/Bonanza,745,23,Actual
+11/13/2023,2023,Trailways,818,28,Actual
+11/13/2023,2023,Trans-Bridge,713,23,Actual
+12/4/2023,2023,Academy,1266,44,Actual
+12/4/2023,2023,Coach USA,5422,168,Actual
+12/4/2023,2023,Greyhound,1517,61,Actual
+12/4/2023,2023,HCEE - Community,1390,81,Actual
+12/4/2023,2023,Lakeland,1406,45,Actual
+12/4/2023,2023,Martz,744,19,Actual
+12/4/2023,2023,NJ Transit,83853,2419,Actual
+12/4/2023,2023,Peter Pan/Bonanza,745,23,Actual
+12/4/2023,2023,Trailways,561,22,Actual
+12/4/2023,2023,Trans-Bridge,704,24,Actual
+12/18/2023,2023,Academy,1179,44,Actual
+12/18/2023,2023,Coach USA,5267,178,Actual
+12/18/2023,2023,Greyhound,1001,59,Actual
+12/18/2023,2023,HCEE - Community,1522,85,Actual
+12/18/2023,2023,Lakeland,1406,45,Actual
+12/18/2023,2023,Martz,765,18,Actual
+12/18/2023,2023,NJ Transit,73885,2373,Actual
+12/18/2023,2023,Peter Pan/Bonanza,745,23,Actual
+12/18/2023,2023,Trailways,436,22,Actual
+12/18/2023,2023,Trans-Bridge,667,23,Actual
+1/1/2024,2024,Academy,1068,37,Actual
+1/1/2024,2024,Coach USA,4426,150,Actual
+1/1/2024,2024,Greyhound,1172,60,Actual
+1/1/2024,2024,HCEE - Community,1245,75,Actual
+1/1/2024,2024,Lakeland,1406,45,Actual
+1/1/2024,2024,Martz,670,18,Actual
+1/1/2024,2024,NJ Transit,77875,2406,Actual
+1/1/2024,2024,Peter Pan/Bonanza,745,23,Actual
+1/1/2024,2024,Trailways,542,21,Actual
+1/1/2024,2024,Trans-Bridge,556,21,Actual
+1/15/2024,2024,Academy,1003,38,Actual
+1/15/2024,2024,Coach USA,4259,166,Actual
+1/15/2024,2024,Greyhound,1352,56,Actual
+1/15/2024,2024,HCEE - Community,1266,86,Actual
+1/15/2024,2024,Lakeland,1240,42,Actual
+1/15/2024,2024,Martz,606,17,Actual
+1/15/2024,2024,NJ Transit,75743,2417,Actual
+1/15/2024,2024,Peter Pan/Bonanza,745,23,Actual
+1/15/2024,2024,Trailways,521,21,Actual
+1/15/2024,2024,Trans-Bridge,555,23,Actual
+1/29/2024,2024,Academy,1247,44,Actual
+1/29/2024,2024,Coach USA,5418,185,Actual
+1/29/2024,2024,Greyhound,1154,59,Actual
+1/29/2024,2024,HCEE - Community,1464,87,Actual
+1/29/2024,2024,Lakeland,1447,43,Actual
+1/29/2024,2024,Martz,701,18,Actual
+1/29/2024,2024,NJ Transit,79268,2431,Actual
+1/29/2024,2024,Peter Pan/Bonanza,745,23,Actual
+1/29/2024,2024,Trailways,407,22,Actual
+1/29/2024,2024,Trans-Bridge,621,24,Actual
+2/12/2024,2024,Academy,837,42,Actual
+2/12/2024,2024,Coach USA,4420,168,Actual
+2/12/2024,2024,Greyhound,1258,57,Actual
+2/12/2024,2024,HCEE - Community,1461,86,Actual
+2/12/2024,2024,Lakeland,1447,43,Actual
+2/12/2024,2024,Martz,596,15,Actual
+2/12/2024,2024,NJ Transit,80052,2407,Actual
+2/12/2024,2024,Peter Pan/Bonanza,745,23,Actual
+2/12/2024,2024,Trailways,430,18,Actual
+2/12/2024,2024,Trans-Bridge,522,19,Actual
+2/26/2024,2024,Academy,912,38,Actual
+2/26/2024,2024,Coach USA,5367,183,Actual
+2/26/2024,2024,Greyhound,1361,61,Actual
+2/26/2024,2024,HCEE - Community,1461,86,Actual
+2/26/2024,2024,Lakeland,1407,41,Actual
+2/26/2024,2024,Martz,713,18,Actual
+2/26/2024,2024,NJ Transit,77873,2422,Actual
+2/26/2024,2024,Peter Pan/Bonanza,745,23,Actual
+2/26/2024,2024,Trailways,486,21,Actual
+2/26/2024,2024,Trans-Bridge,522,19,Actual
+3/11/2024,2024,Academy,1278,44,Actual
+3/11/2024,2024,Coach USA,5491,185,Actual
+3/11/2024,2024,Greyhound,1550,61,Actual
+3/11/2024,2024,HCEE - Community,1516,88,Actual
+3/11/2024,2024,Lakeland,1471,42,Actual
+3/11/2024,2024,Martz,728,18,Actual
+3/11/2024,2024,NJ Transit,80553,2437,Actual
+3/11/2024,2024,Peter Pan/Bonanza,831,28,Actual
+3/11/2024,2024,Trailways,568,24,Actual
+3/11/2024,2024,Trans-Bridge,682,23,Actual
+3/25/2024,2024,Academy,1229,44,Actual
+3/25/2024,2024,Coach USA,5564,186,Actual
+3/25/2024,2024,Greyhound,1613,61,Actual
+3/25/2024,2024,HCEE - Community,1593,83,Actual
+3/25/2024,2024,Lakeland,1382,42,Actual
+3/25/2024,2024,Martz,723,18,Actual
+3/25/2024,2024,NJ Transit,80983,2417,Actual
+3/25/2024,2024,Peter Pan/Bonanza,831,28,Actual
+3/25/2024,2024,Trailways,542,21,Actual
+3/25/2024,2024,Trans-Bridge,684,24,Actual
+4/8/2024,2024,Academy,1246,44,Actual
+4/8/2024,2024,Coach USA,5358,188,Actual
+4/8/2024,2024,Greyhound,1474,60,Actual
+4/8/2024,2024,HCEE - Community,1585,83,Actual
+4/8/2024,2024,Lakeland,1395,42,Actual
+4/8/2024,2024,Martz,717,18,Actual
+4/8/2024,2024,NJ Transit,78409,2412,Actual
+4/8/2024,2024,Peter Pan/Bonanza,712,24,Actual
+4/8/2024,2024,Trailways,688,23,Actual
+4/8/2024,2024,Trans-Bridge,632,24,Actual
+4/22/2024,2024,Academy,1243,44,Actual
+4/22/2024,2024,Coach USA,5352,189,Actual
+4/22/2024,2024,Greyhound,1806,61,Actual
+4/22/2024,2024,HCEE - Community,1644,86,Actual
+4/22/2024,2024,Lakeland,1425,42,Actual
+4/22/2024,2024,Martz,743,18,Actual
+4/22/2024,2024,NJ Transit,78753,2399,Actual
+4/22/2024,2024,Peter Pan/Bonanza,712,24,Actual
+4/22/2024,2024,Trailways,607,22,Actual
+4/22/2024,2024,Trans-Bridge,667,24,Actual
+5/6/2024,2024,Academy,1251,44,Actual
+5/6/2024,2024,Coach USA,5475,187,Actual
+5/6/2024,2024,Greyhound,1560,61,Actual
+5/6/2024,2024,HCEE - Community,1644,86,Actual
+5/6/2024,2024,Lakeland,1409,42,Actual
+5/6/2024,2024,Martz,758,18,Actual
+5/6/2024,2024,NJ Transit,82850,2389,Actual
+5/6/2024,2024,Peter Pan/Bonanza,712,24,Actual
+5/6/2024,2024,Trailways,551,22,Actual
+5/6/2024,2024,Trans-Bridge,676,24,Actual
+5/20/2024,2024,Academy,1249,44,Actual
+5/20/2024,2024,Coach USA,5625,184,Actual
+5/20/2024,2024,Greyhound,1838,60,Actual
+5/20/2024,2024,HCEE - Community,1644,86,Actual
+5/20/2024,2024,Lakeland,1451,41,Actual
+5/20/2024,2024,Martz,775,18,Actual
+5/20/2024,2024,NJ Transit,86933,2372,Actual
+5/20/2024,2024,Peter Pan/Bonanza,918,33,Actual
+5/20/2024,2024,Trailways,614,23,Actual
+5/20/2024,2024,Trans-Bridge,665,24,Actual
+6/3/2024,2024,Academy,1247,43,Actual
+6/3/2024,2024,Coach USA,4563,159,Actual
+6/3/2024,2024,Greyhound,1689,60,Actual
+6/3/2024,2024,HCEE - Community,1685,86,Actual
+6/3/2024,2024,Lakeland,1513,42,Actual
+6/3/2024,2024,Martz,753,18,Actual
+6/3/2024,2024,NJ Transit,87094,2405,Actual
+6/3/2024,2024,Peter Pan/Bonanza,918,33,Actual
+6/3/2024,2024,Trailways,614,23,Actual
+6/3/2024,2024,Trans-Bridge,694,24,Actual
+6/24/2024,2024,Academy,1250,44,Actual
+6/24/2024,2024,Coach USA,5659,185,Actual
+6/24/2024,2024,Greyhound,1888,57,Actual
+6/24/2024,2024,HCEE - Community,1708,87,Actual
+6/24/2024,2024,Lakeland,1487,44,Actual
+6/24/2024,2024,Martz,773,18,Actual
+6/24/2024,2024,NJ Transit,85367,2399,Actual
+6/24/2024,2024,Peter Pan/Bonanza,918,33,Actual
+6/24/2024,2024,Trailways,772,27,Actual
+6/24/2024,2024,Trans-Bridge,671,24,Actual
+7/8/2024,2024,Academy,1250,44,Actual
+7/8/2024,2024,Coach USA,5310,168,Actual
+7/8/2024,2024,Greyhound,1842,57,Actual
+7/8/2024,2024,HCEE - Community,1528,78,Actual
+7/8/2024,2024,Lakeland,1415,41,Actual
+7/8/2024,2024,Martz,693,17,Actual
+7/8/2024,2024,NJ Transit,83174,2422,Actual
+7/8/2024,2024,Peter Pan/Bonanza,918,33,Actual
+7/8/2024,2024,Trailways,601,27,Actual
+7/8/2024,2024,Trans-Bridge,610,21,Actual
+7/22/2024,2024,Academy,1444,44,Actual
+7/22/2024,2024,Coach USA,5489,195,Actual
+7/22/2024,2024,Greyhound,1913,57,Actual
+7/22/2024,2024,HCEE - Community,1528,78,Actual
+7/22/2024,2024,Lakeland,1480,41,Actual
+7/22/2024,2024,Martz,767,17,Actual
+7/22/2024,2024,NJ Transit,82384,2412,Actual
+7/22/2024,2024,Peter Pan/Bonanza,918,33,Actual
+7/22/2024,2024,Trailways,699,26,Actual
+7/22/2024,2024,Trans-Bridge,639,24,Actual
+8/5/2024,2024,Academy,1372,45,Actual
+8/5/2024,2024,Coach USA,5227,191,Actual
+8/5/2024,2024,Greyhound,2028,58,Actual
+8/5/2024,2024,HCEE - Community,1528,78,Actual
+8/5/2024,2024,Lakeland,1373,42,Actual
+8/5/2024,2024,Martz,781,18,Actual
+8/5/2024,2024,NJ Transit,78702,2421,Actual
+8/5/2024,2024,Peter Pan/Bonanza,1067,33,Actual
+8/5/2024,2024,Trailways,699,26,Actual
+8/5/2024,2024,Trans-Bridge,671,24,Actual
+8/19/2024,2024,Academy,1276,45,Actual
+8/19/2024,2024,Coach USA,5070,188,Actual
+8/19/2024,2024,Greyhound,2123,58,Actual
+8/19/2024,2024,HCEE - Community,1528,78,Actual
+8/19/2024,2024,Lakeland,1331,42,Actual
+8/19/2024,2024,Martz,744,18,Actual
+8/19/2024,2024,NJ Transit,78900,2406,Actual
+8/19/2024,2024,Peter Pan/Bonanza,1875,44,Actual
+8/19/2024,2024,Trailways,699,26,Actual
+8/19/2024,2024,Trans-Bridge,623,24,Actual
+9/2/2024,2024,Academy,1350,23,Actual
+9/2/2024,2024,Coach USA,4457,162,Actual
+9/2/2024,2024,Greyhound,1788,58,Actual
+9/2/2024,2024,HCEE - Community,1528,78,Actual
+9/2/2024,2024,Lakeland,1152,38,Actual
+9/2/2024,2024,Martz,626,15,Actual
+9/2/2024,2024,NJ Transit,85373,2414,Actual
+9/2/2024,2024,Peter Pan/Bonanza,1875,45,Actual
+9/2/2024,2024,Trailways,699,26,Actual
+9/2/2024,2024,Trans-Bridge,548,20,Actual
+9/16/2024,2024,Academy,1472,45,Actual
+9/16/2024,2024,Coach USA,5695,186,Actual
+9/16/2024,2024,Greyhound,1181,58,Actual
+9/16/2024,2024,HCEE - Community,1770,86,Actual
+9/16/2024,2024,Lakeland,1475,42,Actual
+9/16/2024,2024,Martz,771,18,Actual
+9/16/2024,2024,NJ Transit,87202,2419,Actual
+9/16/2024,2024,Peter Pan/Bonanza,1875,45,Actual
+9/16/2024,2024,Trailways,494,23,Actual
+9/16/2024,2024,Trans-Bridge,702,23,Actual
+9/30/2024,2024,Academy,1446,44,Actual
+9/30/2024,2024,Coach USA,5375,185,Actual
+9/30/2024,2024,Greyhound,1220,59,Actual
+9/30/2024,2024,HCEE - Community,1727,87,Actual
+9/30/2024,2024,Lakeland,1444,41,Actual
+9/30/2024,2024,Martz,773,18,Actual
+9/30/2024,2024,NJ Transit,84487,2433,Actual
+9/30/2024,2024,Peter Pan/Bonanza,1875,45,Actual
+9/30/2024,2024,Trailways,505,22,Actual
+9/30/2024,2024,Trans-Bridge,699,23,Actual
+10/14/2024,2024,Academy,1328,42,Actual
+10/14/2024,2024,Coach USA,5228,193,Actual
+10/14/2024,2024,Greyhound,1568,59,Actual
+10/14/2024,2024,HCEE - Community,1717,87,Actual
+10/14/2024,2024,Lakeland,1417,42,Actual
+10/14/2024,2024,Martz,746,17,Actual
+10/14/2024,2024,NJ Transit,86220,2396,Actual
+10/14/2024,2024,Peter Pan/Bonanza,1875,45,Actual
+10/14/2024,2024,Trailways,836,24,Actual
+10/14/2024,2024,Trans-Bridge,704,22,Actual
+10/28/2024,2024,Academy,1457,46,Actual
+10/28/2024,2024,Coach USA,5440,195,Actual
+10/28/2024,2024,Greyhound,1232,59,Actual
+10/28/2024,2024,HCEE - Community,1717,87,Actual
+10/28/2024,2024,Lakeland,1398,42,Actual
+10/28/2024,2024,Martz,744,18,Actual
+10/28/2024,2024,NJ Transit,88869,2411,Actual
+10/28/2024,2024,Peter Pan/Bonanza,1875,45,Actual
+10/28/2024,2024,Trailways,562,22,Actual
+10/28/2024,2024,Trans-Bridge,637,23,Actual
+11/11/2024,2024,Academy,1375,41,Actual
+11/11/2024,2024,Coach USA,5364,189,Actual
+11/11/2024,2024,Greyhound,1297,59,Actual
+11/11/2024,2024,HCEE - Community,1675,88,Actual
+11/11/2024,2024,Lakeland,1378,42,Actual
+11/11/2024,2024,Martz,712,18,Actual
+11/11/2024,2024,NJ Transit,85805,2423,Actual
+11/11/2024,2024,Peter Pan/Bonanza,1875,45,Actual
+11/11/2024,2024,Trailways,517,22,Actual
+11/11/2024,2024,Trans-Bridge,672,23,Actual
+12/9/2024,2024,Academy,1408,46,Actual
+12/9/2024,2024,Coach USA,5256,188,Actual
+12/9/2024,2024,Greyhound,1125,59,Actual
+12/9/2024,2024,HCEE - Community,1779,87,Actual
+12/9/2024,2024,Lakeland,1362,42,Actual
+12/9/2024,2024,Martz,746,18,Actual
+12/9/2024,2024,NJ Transit,84180,2447,Actual
+12/9/2024,2024,Peter Pan/Bonanza,1875,45,Actual
+12/9/2024,2024,Trailways,454,23,Actual
+12/9/2024,2024,Trans-Bridge,726,23,Actual
+1/13/2025,2025,Academy,1522,46,Actual
+1/13/2025,2025,Coach USA,5382,189,Actual
+1/13/2025,2025,Greyhound,1125,59,Actual
+1/13/2025,2025,HCEE - Community,1591,85,Actual
+1/13/2025,2025,Lakeland,1442,42,Actual
+1/13/2025,2025,Martz,733,18,Actual
+1/13/2025,2025,NJ Transit,79529,2426,Actual
+1/13/2025,2025,Peter Pan/Bonanza,927,44,Actual
+1/13/2025,2025,Trailways,426,22,Actual
+1/13/2025,2025,Trans-Bridge,643,23,Actual
+1/27/2025,2025,Academy,1217,39,Actual
+1/27/2025,2025,Coach USA,5382,189,Actual
+1/27/2025,2025,Greyhound,1125,59,Actual
+1/27/2025,2025,HCEE - Community,1628,87,Actual
+1/27/2025,2025,Lakeland,1437,44,Actual
+1/27/2025,2025,Martz,708,18,Actual
+1/27/2025,2025,NJ Transit,77619,2427,Actual
+1/27/2025,2025,Peter Pan/Bonanza,910,38,Actual
+1/27/2025,2025,Trailways,426,22,Actual
+1/27/2025,2025,Trans-Bridge,613,23,Actual
+2/10/2025,2025,Academy,1369,46,Actual
+2/10/2025,2025,Coach USA,5382,189,Actual
+2/10/2025,2025,Greyhound,920,56,Actual
+2/10/2025,2025,HCEE - Community,1678,86,Actual
+2/10/2025,2025,Lakeland,1321,42,Actual
+2/10/2025,2025,Martz,693,18,Actual
+2/10/2025,2025,NJ Transit,77802,2577,Actual
+2/10/2025,2025,Peter Pan/Bonanza,910,38,Actual
+2/10/2025,2025,Trailways,426,22,Actual
+2/10/2025,2025,Trans-Bridge,631,23,Actual
+2/24/2025,2025,Academy,1499,46,Actual
+2/24/2025,2025,Coach USA,5382,189,Actual
+2/24/2025,2025,Greyhound,1004,60,Actual
+2/24/2025,2025,HCEE - Community,1750,88,Actual
+2/24/2025,2025,Lakeland,1410,45,Actual
+2/24/2025,2025,Martz,712,18,Actual
+2/24/2025,2025,NJ Transit,83056,2410,Actual
+2/24/2025,2025,Peter Pan/Bonanza,910,38,Actual
+2/24/2025,2025,Trailways,426,22,Actual
+2/24/2025,2025,Trans-Bridge,680,23,Actual
+3/10/2025,2025,Academy,1522,46,Actual
+3/10/2025,2025,Coach USA,5645,188,Actual
+3/10/2025,2025,Greyhound,1133,61,Actual
+3/10/2025,2025,HCEE - Community,1508,78,Actual
+3/10/2025,2025,Lakeland,1439,42,Actual
+3/10/2025,2025,Martz,744,18,Actual
+3/10/2025,2025,NJ Transit,85733,2433,Actual
+3/10/2025,2025,Peter Pan/Bonanza,1443,45,Actual
+3/10/2025,2025,Trailways,425,21,Actual
+3/10/2025,2025,Trans-Bridge,683,23,Actual
+3/24/2025,2025,Academy,1495,46,Actual
+3/24/2025,2025,Coach USA,5645,188,Actual
+3/24/2025,2025,Greyhound,1277,62,Actual
+3/24/2025,2025,HCEE - Community,1554,77,Actual
+3/24/2025,2025,Lakeland,1396,42,Actual
+3/24/2025,2025,Martz,717,18,Actual
+3/24/2025,2025,NJ Transit,84280,2443,Actual
+3/24/2025,2025,Peter Pan/Bonanza,1430,44,Actual
+3/24/2025,2025,Trailways,425,21,Actual
+3/24/2025,2025,Trans-Bridge,702,23,Actual
+4/7/2025,2025,Academy,1532,46,Actual
+4/7/2025,2025,Coach USA,5645,188,Actual
+4/7/2025,2025,Greyhound,1192,61,Actual
+4/7/2025,2025,HCEE - Community,1554,77,Actual
+4/7/2025,2025,Lakeland,1390,42,Actual
+4/7/2025,2025,Martz,731,18,Actual
+4/7/2025,2025,NJ Transit,86890,2473,Actual
+4/7/2025,2025,Peter Pan/Bonanza,1430,44,Actual
+4/7/2025,2025,Trailways,425,21,Actual
+4/7/2025,2025,Trans-Bridge,680,22,Actual
+4/21/2025,2025,Academy,1354,44,Actual
+4/21/2025,2025,Coach USA,5645,188,Actual
+4/21/2025,2025,Greyhound,1435,62,Actual
+4/21/2025,2025,HCEE - Community,1554,77,Actual
+4/21/2025,2025,Lakeland,1322,42,Actual
+4/21/2025,2025,Martz,731,18,Actual
+4/21/2025,2025,NJ Transit,90225,2456,Actual
+4/21/2025,2025,Peter Pan/Bonanza,1430,44,Actual
+4/21/2025,2025,Trailways,425,21,Actual
+4/21/2025,2025,Trans-Bridge,692,22,Actual
+5/5/2025,2025,Academy,1509,46,Actual
+5/5/2025,2025,Coach USA,5645,188,Actual
+5/5/2025,2025,Greyhound,1209,62,Actual
+5/5/2025,2025,HCEE - Community,1875,87,Actual
+5/5/2025,2025,Lakeland,1421,42,Actual
+5/5/2025,2025,Martz,716,18,Actual
+5/5/2025,2025,NJ Transit,87138,2389,Actual
+5/5/2025,2025,Peter Pan/Bonanza,1430,44,Actual
+5/5/2025,2025,Trailways,425,21,Actual
+5/5/2025,2025,Trans-Bridge,688,23,Actual
+5/19/2025,2025,Academy,1551,46,Actual
+5/19/2025,2025,Coach USA,5645,188,Actual
+5/19/2025,2025,Greyhound,1821,63,Actual
+5/19/2025,2025,HCEE - Community,1735,87,Actual
+5/19/2025,2025,Lakeland,1498,42,Actual
+5/19/2025,2025,Martz,745,18,Actual
+5/19/2025,2025,NJ Transit,86789,2446,Actual
+5/19/2025,2025,Peter Pan/Bonanza,1430,44,Actual
+5/19/2025,2025,Trailways,425,21,Actual
+5/19/2025,2025,Trans-Bridge,734,22,Actual
+6/1/2025,2025,Academy,1638,48,Actual
+6/1/2025,2025,Coach USA,6008,206,Actual
+6/1/2025,2025,Greyhound,1439,63,Actual
+6/1/2025,2025,HCEE - Community,1873,87,Actual
+6/1/2025,2025,Lakeland,1467,42,Actual
+6/1/2025,2025,Martz,741,18,Actual
+6/1/2025,2025,NJ Transit,87711,2418,Actual
+6/1/2025,2025,Peter Pan/Bonanza,1430,44,Actual
+6/1/2025,2025,Trailways,425,21,Actual
+6/1/2025,2025,Trans-Bridge,726,22,Actual
+6/16/2025,2025,Academy,1283,41,Actual
+6/16/2025,2025,Coach USA,5994,202,Actual
+6/16/2025,2025,Greyhound,1439,63,Actual
+6/16/2025,2025,HCEE - Community,1773,88,Actual
+6/16/2025,2025,Lakeland,1327,35,Actual
+6/16/2025,2025,Martz,719,17,Actual
+6/16/2025,2025,NJ Transit,89125,2420,Actual
+6/16/2025,2025,Peter Pan/Bonanza,1430,44,Actual
+6/16/2025,2025,Trailways,425,21,Actual
+6/16/2025,2025,Trans-Bridge,669,22,Actual
+7/1/2025,2025,Academy,1272,42,Actual
+7/1/2025,2025,Coach USA,5709,203,Actual
+7/1/2025,2025,HCEE - Community,1388,73,Actual
+7/1/2025,2025,Lakeland,1170,38,Actual
+7/1/2025,2025,Martz,797,17,Actual
+7/1/2025,2025,NJ Transit,74345,2216,Actual
+7/1/2025,2025,Peter Pan/Bonanza,2436,59,Actual
+7/1/2025,2025,Trailways,807,24,Actual
+7/1/2025,2025,Trans-Bridge,605,20,Actual
+7/14/2025,2025,Academy,1487,46,Actual
+7/14/2025,2025,Coach USA,5709,203,Actual
+7/14/2025,2025,Greyhound,1439,63,Actual
+7/14/2025,2025,HCEE - Community,1771,87,Actual
+7/14/2025,2025,Lakeland,1464,42,Actual
+7/14/2025,2025,Martz,767,18,Actual
+7/14/2025,2025,NJ Transit,89482,2466,Actual
+7/14/2025,2025,Peter Pan/Bonanza,1771,50,Actual
+7/14/2025,2025,Trailways,585,23,Actual
+7/14/2025,2025,Trans-Bridge,654,22,Actual
+7/28/2025,2025,Academy,1487,46,Actual
+7/28/2025,2025,Coach USA,5709,203,Actual
+7/28/2025,2025,Greyhound,1439,63,Actual
+7/28/2025,2025,HCEE - Community,1718,86,Actual
+7/28/2025,2025,Lakeland,1417,42,Actual
+7/28/2025,2025,Martz,753,18,Actual
+7/28/2025,2025,NJ Transit,86268,2481,Actual
+7/28/2025,2025,Peter Pan/Bonanza,1771,50,Actual
+7/28/2025,2025,Trailways,585,23,Actual
+7/28/2025,2025,Trans-Bridge,677,23,Actual
+8/4/2025,2025,AllCarriers,102123.9414,2969.985969,Forecast
+8/11/2025,2025,AllCarriers,102567.4335,2931.335589,Forecast
+8/18/2025,2025,AllCarriers,103010.9256,2971.692832,Forecast
+8/25/2025,2025,AllCarriers,103454.4177,2949.160439,Forecast
+9/1/2025,2025,AllCarriers,103897.9098,2982.979415,Forecast
+9/8/2025,2025,AllCarriers,104341.4019,2985.278182,Forecast
+9/15/2025,2025,AllCarriers,104784.894,2983.758359,Forecast
+9/22/2025,2025,AllCarriers,105228.3861,2978.716468,Forecast
+9/29/2025,2025,AllCarriers,105671.8782,2990.098106,Forecast
+10/6/2025,2025,AllCarriers,106115.3703,2990.485236,Forecast
+10/13/2025,2025,AllCarriers,106558.8624,2996.16997,Forecast
+10/20/2025,2025,AllCarriers,107002.3545,2999.887523,Forecast
+10/27/2025,2025,AllCarriers,107445.8466,3003.129359,Forecast
+11/3/2025,2025,AllCarriers,107889.3387,3005.104352,Forecast
+11/10/2025,2025,AllCarriers,108332.8308,3010.481974,Forecast
+11/17/2025,2025,AllCarriers,108776.3229,3014.433167,Forecast
+11/24/2025,2025,AllCarriers,109219.815,3017.47846,Forecast
+12/1/2025,2025,AllCarriers,109663.3071,3021.267907,Forecast
+12/8/2025,2025,AllCarriers,110106.7992,3025.599435,Forecast
+12/15/2025,2025,AllCarriers,110550.2913,3028.597425,Forecast
+12/22/2025,2025,AllCarriers,110993.7835,3032.291222,Forecast
+12/29/2025,2025,AllCarriers,111437.2756,3035.680217,Forecast
+1/5/2026,2026,AllCarriers,111880.7677,3039.146065,Forecast
+1/12/2026,2026,AllCarriers,112324.2598,3042.49662,Forecast
+1/19/2026,2026,AllCarriers,112767.7519,3046.253569,Forecast
+1/26/2026,2026,AllCarriers,113211.244,3050.203002,Forecast
+2/2/2026,2026,AllCarriers,113654.7361,3053.674887,Forecast
+2/9/2026,2026,AllCarriers,114098.2282,3057.547862,Forecast
+2/16/2026,2026,AllCarriers,114541.7203,3061.292087,Forecast
+2/23/2026,2026,AllCarriers,114985.2124,3064.771178,Forecast
+3/2/2026,2026,AllCarriers,115428.7045,3067.610954,Forecast
+3/9/2026,2026,AllCarriers,115872.1966,3072.212243,Forecast
+3/16/2026,2026,AllCarriers,116315.6887,3075.996928,Forecast
+3/23/2026,2026,AllCarriers,116759.1808,3079.132317,Forecast
+3/30/2026,2026,AllCarriers,117202.6729,3083.052187,Forecast
+4/6/2026,2026,AllCarriers,117646.165,3086.677907,Forecast
+4/13/2026,2026,AllCarriers,118089.6571,3090.704269,Forecast
+4/20/2026,2026,AllCarriers,118533.1492,3093.933398,Forecast
+4/27/2026,2026,AllCarriers,118976.6413,3097.408689,Forecast
+5/4/2026,2026,AllCarriers,119420.1334,3103.313902,Forecast
+5/11/2026,2026,AllCarriers,119863.6255,3104.495328,Forecast
+5/18/2026,2026,AllCarriers,120307.1176,3108.336598,Forecast
+5/25/2026,2026,AllCarriers,120750.6097,3112.071358,Forecast
+6/1/2026,2026,AllCarriers,121194.1018,3116.096254,Forecast
+6/8/2026,2026,AllCarriers,121637.5939,3119.418069,Forecast
+6/15/2026,2026,AllCarriers,122081.086,3122.18923,Forecast
+6/22/2026,2026,AllCarriers,122524.5781,3126.657753,Forecast
+6/29/2026,2026,AllCarriers,122968.0702,3130.132304,Forecast
+7/6/2026,2026,AllCarriers,123411.5623,3133.484621,Forecast
+7/13/2026,2026,AllCarriers,123855.0544,3133.090786,Forecast
+7/20/2026,2026,AllCarriers,124298.5465,3141.702897,Forecast
+7/27/2026,2026,AllCarriers,124742.0386,3145.529155,Forecast
+8/3/2026,2026,AllCarriers,125185.5308,3148.132013,Forecast
+8/10/2026,2026,AllCarriers,125629.0229,3151.137955,Forecast
+8/17/2026,2026,AllCarriers,126072.515,3155.351951,Forecast
+8/24/2026,2026,AllCarriers,126516.0071,3158.604344,Forecast
+8/31/2026,2026,AllCarriers,126959.4992,3162.718366,Forecast
+9/7/2026,2026,AllCarriers,127402.9913,3166.350433,Forecast
+9/14/2026,2026,AllCarriers,127846.4834,3169.924118,Forecast
+9/21/2026,2026,AllCarriers,128289.9755,3173.443946,Forecast
+9/28/2026,2026,AllCarriers,128733.4676,3177.214895,Forecast
+10/5/2026,2026,AllCarriers,129176.9597,3180.817735,Forecast
+10/12/2026,2026,AllCarriers,129620.4518,3184.501577,Forecast
+10/19/2026,2026,AllCarriers,130063.9439,3188.15534,Forecast
+10/26/2026,2026,AllCarriers,130507.436,3191.801829,Forecast
+11/2/2026,2026,AllCarriers,130950.9281,3195.428948,Forecast
+11/9/2026,2026,AllCarriers,131394.4202,3199.108094,Forecast
+11/16/2026,2026,AllCarriers,131837.9123,3202.76543,Forecast
+11/23/2026,2026,AllCarriers,132281.4044,3206.408914,Forecast
+11/30/2026,2026,AllCarriers,132724.8965,3210.063776,Forecast
+12/7/2026,2026,AllCarriers,133168.3886,3213.726927,Forecast
+12/14/2026,2026,AllCarriers,133611.8807,3217.369688,Forecast
+12/21/2026,2026,AllCarriers,134055.3728,3221.023088,Forecast
+12/28/2026,2026,AllCarriers,134498.8649,3224.671827,Forecast
+1/4/2027,2027,AllCarriers,134942.357,3228.321742,Forecast
+1/11/2027,2027,AllCarriers,135385.8491,3231.969893,Forecast
+1/18/2027,2027,AllCarriers,135829.3412,3235.624259,Forecast
+1/25/2027,2027,AllCarriers,136272.8333,3239.281567,Forecast
+2/1/2027,2027,AllCarriers,136716.3254,3242.931574,Forecast
+2/8/2027,2027,AllCarriers,137159.8175,3246.587714,Forecast
+2/15/2027,2027,AllCarriers,137603.3096,3250.241885,Forecast
+2/22/2027,2027,AllCarriers,138046.8017,3253.892002,Forecast
+3/1/2027,2027,AllCarriers,138490.2938,3257.532343,Forecast
+3/8/2027,2027,AllCarriers,138933.7859,3261.199619,Forecast
+3/15/2027,2027,AllCarriers,139377.278,3264.854408,Forecast
+3/22/2027,2027,AllCarriers,139820.7702,3268.49927,Forecast
+3/29/2027,2027,AllCarriers,140264.2623,3272.156127,Forecast
+4/5/2027,2027,AllCarriers,140707.7544,3275.808486,Forecast
+4/12/2027,2027,AllCarriers,141151.2465,3279.466971,Forecast
+4/19/2027,2027,AllCarriers,141594.7386,3283.113266,Forecast
+4/26/2027,2027,AllCarriers,142038.2307,3286.763324,Forecast
+5/3/2027,2027,AllCarriers,142481.7228,3290.450537,Forecast
+5/10/2027,2027,AllCarriers,142925.2149,3294.065523,Forecast
+5/17/2027,2027,AllCarriers,143368.707,3297.721177,Forecast
+5/24/2027,2027,AllCarriers,143812.1991,3301.375203,Forecast
+5/31/2027,2027,AllCarriers,144255.6912,3305.033666,Forecast
+6/7/2027,2027,AllCarriers,144699.1833,3308.681378,Forecast
+6/14/2027,2027,AllCarriers,145142.6754,3312.320671,Forecast
+6/21/2027,2027,AllCarriers,145586.1675,3315.985916,Forecast
+6/28/2027,2027,AllCarriers,146029.6596,3319.635964,Forecast
+7/5/2027,2027,AllCarriers,146473.1517,3323.284142,Forecast
+7/12/2027,2027,AllCarriers,146916.6438,3326.875042,Forecast
+7/19/2027,2027,AllCarriers,147360.1359,3330.603643,Forecast
+7/26/2027,2027,AllCarriers,147803.628,3334.259069,Forecast
+8/2/2027,2027,AllCarriers,148247.1201,3337.895788,Forecast
+8/9/2027,2027,AllCarriers,148690.6122,3341.53867,Forecast
+8/16/2027,2027,AllCarriers,149134.1043,3345.200024,Forecast
+8/23/2027,2027,AllCarriers,149577.5964,3348.846675,Forecast
+8/30/2027,2027,AllCarriers,150021.0885,3352.5065,Forecast
+9/6/2027,2027,AllCarriers,150464.5806,3356.158956,Forecast
+9/13/2027,2027,AllCarriers,150908.0727,3359.810519,Forecast
+9/20/2027,2027,AllCarriers,151351.5648,3363.461259,Forecast
+9/27/2027,2027,AllCarriers,151795.0569,3367.115839,Forecast
+10/4/2027,2027,AllCarriers,152238.549,3370.767848,Forecast
+10/11/2027,2027,AllCarriers,152682.0411,3374.421095,Forecast
+10/18/2027,2027,AllCarriers,153125.5332,3378.073883,Forecast
+10/25/2027,2027,AllCarriers,153569.0253,3381.72656,Forecast
+11/1/2027,2027,AllCarriers,154012.5174,3385.37894,Forecast
+11/8/2027,2027,AllCarriers,154456.0096,3389.032116,Forecast
+11/15/2027,2027,AllCarriers,154899.5017,3392.684958,Forecast
+11/22/2027,2027,AllCarriers,155342.9938,3396.337589,Forecast
+11/29/2027,2027,AllCarriers,155786.4859,3399.990393,Forecast
+12/6/2027,2027,AllCarriers,156229.978,3403.643325,Forecast
+12/13/2027,2027,AllCarriers,156673.4701,3407.295944,Forecast
+12/20/2027,2027,AllCarriers,157116.9622,3410.948726,Forecast
+12/27/2027,2027,AllCarriers,157560.4543,3414.601437,Forecast
+1/3/2028,2028,AllCarriers,158003.9464,3418.254166,Forecast
+1/10/2028,2028,AllCarriers,158447.4385,3421.906868,Forecast
+1/17/2028,2028,AllCarriers,158890.9306,3425.559665,Forecast
+1/24/2028,2028,AllCarriers,159334.4227,3429.212507,Forecast
+1/31/2028,2028,AllCarriers,159777.9148,3432.865237,Forecast
+2/7/2028,2028,AllCarriers,160221.4069,3436.518061,Forecast
+2/14/2028,2028,AllCarriers,160664.899,3440.170855,Forecast
+2/21/2028,2028,AllCarriers,161108.3911,3443.823587,Forecast
+2/28/2028,2028,AllCarriers,161551.8832,3447.47617,Forecast
+3/6/2028,2028,AllCarriers,161995.3753,3451.129164,Forecast
+3/13/2028,2028,AllCarriers,162438.8674,3454.781968,Forecast
+3/20/2028,2028,AllCarriers,162882.3595,3458.434619,Forecast
+3/27/2028,2028,AllCarriers,163325.8516,3462.087454,Forecast
+4/3/2028,2028,AllCarriers,163769.3437,3465.740221,Forecast
+4/10/2028,2028,AllCarriers,164212.8358,3469.393081,Forecast
+4/17/2028,2028,AllCarriers,164656.3279,3473.045754,Forecast
+4/24/2028,2028,AllCarriers,165099.82,3476.698485,Forecast
+5/1/2028,2028,AllCarriers,165543.3121,3480.351784,Forecast
+5/8/2028,2028,AllCarriers,165986.8042,3484.003979,Forecast
+5/15/2028,2028,AllCarriers,166430.2963,3487.656796,Forecast
+5/22/2028,2028,AllCarriers,166873.7884,3491.309588,Forecast
+5/29/2028,2028,AllCarriers,167317.2805,3494.962447,Forecast
+6/5/2028,2028,AllCarriers,167760.7726,3498.615142,Forecast
+6/12/2028,2028,AllCarriers,168204.2647,3502.267709,Forecast
+6/19/2028,2028,AllCarriers,168647.7569,3505.920672,Forecast
+6/26/2028,2028,AllCarriers,169091.249,3509.573403,Forecast
+7/3/2028,2028,AllCarriers,169534.7411,3513.226106,Forecast
+7/10/2028,2028,AllCarriers,169978.2332,3516.877932,Forecast
+7/17/2028,2028,AllCarriers,170421.7253,3520.531864,Forecast
+7/24/2028,2028,AllCarriers,170865.2174,3524.184677,Forecast
+7/31/2028,2028,AllCarriers,171308.7095,3527.837204,Forecast
+8/7/2028,2028,AllCarriers,171752.2016,3531.489826,Forecast
+8/14/2028,2028,AllCarriers,172195.6937,3535.14273,Forecast
+8/21/2028,2028,AllCarriers,172639.1858,3538.795409,Forecast
+8/28/2028,2028,AllCarriers,173082.6779,3542.448289,Forecast
+9/4/2028,2028,AllCarriers,173526.17,3546.101057,Forecast
+9/11/2028,2028,AllCarriers,173969.6621,3549.753811,Forecast
+9/18/2028,2028,AllCarriers,174413.1542,3553.406552,Forecast
+9/25/2028,2028,AllCarriers,174856.6463,3557.059353,Forecast
+10/2/2028,2028,AllCarriers,175300.1384,3560.712113,Forecast
+10/9/2028,2028,AllCarriers,175743.6305,3564.364893,Forecast
+10/16/2028,2028,AllCarriers,176187.1226,3568.017666,Forecast
+10/23/2028,2028,AllCarriers,176630.6147,3571.670437,Forecast
+10/30/2028,2028,AllCarriers,177074.1068,3575.323204,Forecast
+11/6/2028,2028,AllCarriers,177517.5989,3578.975983,Forecast
+11/13/2028,2028,AllCarriers,177961.091,3582.628756,Forecast
+11/20/2028,2028,AllCarriers,178404.5831,3586.281527,Forecast
+11/27/2028,2028,AllCarriers,178848.0752,3589.9343,Forecast
+12/4/2028,2028,AllCarriers,179291.5673,3593.587075,Forecast
+12/11/2028,2028,AllCarriers,179735.0594,3597.239845,Forecast
+12/18/2028,2028,AllCarriers,180178.5515,3600.892618,Forecast
+12/25/2028,2028,AllCarriers,180622.0436,3604.545389,Forecast
+1/1/2029,2029,AllCarriers,181065.5357,3608.198161,Forecast
+1/8/2029,2029,AllCarriers,181509.0278,3611.850933,Forecast
+1/15/2029,2029,AllCarriers,181952.5199,3615.503706,Forecast
+1/22/2029,2029,AllCarriers,182396.012,3619.15648,Forecast
+1/29/2029,2029,AllCarriers,182839.5041,3622.809252,Forecast
+2/5/2029,2029,AllCarriers,183282.9963,3626.462025,Forecast
+2/12/2029,2029,AllCarriers,183726.4884,3630.114798,Forecast
+2/19/2029,2029,AllCarriers,184169.9805,3633.76757,Forecast
+2/26/2029,2029,AllCarriers,184613.4726,3637.420339,Forecast
+3/5/2029,2029,AllCarriers,185056.9647,3641.073115,Forecast
+3/12/2029,2029,AllCarriers,185500.4568,3644.725889,Forecast
+3/19/2029,2029,AllCarriers,185943.9489,3648.378659,Forecast
+3/26/2029,2029,AllCarriers,186387.441,3652.031433,Forecast
+4/2/2029,2029,AllCarriers,186830.9331,3655.684205,Forecast
+4/9/2029,2029,AllCarriers,187274.4252,3659.336979,Forecast
+4/16/2029,2029,AllCarriers,187717.9173,3662.98975,Forecast
+4/23/2029,2029,AllCarriers,188161.4094,3666.642522,Forecast
+4/30/2029,2029,AllCarriers,188604.9015,3670.295303,Forecast
+5/7/2029,2029,AllCarriers,189048.3936,3673.948067,Forecast
+5/14/2029,2029,AllCarriers,189491.8857,3677.60084,Forecast
+5/21/2029,2029,AllCarriers,189935.3778,3681.253613,Forecast
+5/28/2029,2029,AllCarriers,190378.8699,3684.906387,Forecast
+6/4/2029,2029,AllCarriers,190822.362,3688.559158,Forecast
+6/11/2029,2029,AllCarriers,191265.8541,3692.211928,Forecast
+6/18/2029,2029,AllCarriers,191709.3462,3695.864703,Forecast
+6/25/2029,2029,AllCarriers,192152.8383,3699.517475,Forecast
+7/2/2029,2029,AllCarriers,192596.3304,3703.170247,Forecast
+7/9/2029,2029,AllCarriers,193039.8225,3706.823005,Forecast
+7/16/2029,2029,AllCarriers,193483.3146,3710.475795,Forecast
+7/23/2029,2029,AllCarriers,193926.8067,3714.128568,Forecast
+7/30/2029,2029,AllCarriers,194370.2988,3717.781337,Forecast
+8/6/2029,2029,AllCarriers,194813.7909,3721.434107,Forecast
+8/13/2029,2029,AllCarriers,195257.283,3725.086882,Forecast
+8/20/2029,2029,AllCarriers,195700.7751,3728.739653,Forecast
+8/27/2029,2029,AllCarriers,196144.2672,3732.392427,Forecast
+9/3/2029,2029,AllCarriers,196587.7593,3736.0452,Forecast
+9/10/2029,2029,AllCarriers,197031.2514,3739.697972,Forecast
+9/17/2029,2029,AllCarriers,197474.7435,3743.350744,Forecast
+9/24/2029,2029,AllCarriers,197918.2357,3747.003517,Forecast
+10/1/2029,2029,AllCarriers,198361.7278,3750.65629,Forecast
+10/8/2029,2029,AllCarriers,198805.2199,3754.309062,Forecast
+10/15/2029,2029,AllCarriers,199248.712,3757.961835,Forecast
+10/22/2029,2029,AllCarriers,199692.2041,3761.614608,Forecast
+10/29/2029,2029,AllCarriers,200135.6962,3765.26738,Forecast
+11/5/2029,2029,AllCarriers,200579.1883,3768.920153,Forecast
+11/12/2029,2029,AllCarriers,201022.6804,3772.572925,Forecast
+11/19/2029,2029,AllCarriers,201466.1725,3776.225698,Forecast
+11/26/2029,2029,AllCarriers,201909.6646,3779.878471,Forecast
+12/3/2029,2029,AllCarriers,202353.1567,3783.531243,Forecast
+12/10/2029,2029,AllCarriers,202796.6488,3787.184016,Forecast
+12/17/2029,2029,AllCarriers,203240.1409,3790.836788,Forecast
+12/24/2029,2029,AllCarriers,203683.633,3794.489561,Forecast
+12/31/2029,2029,AllCarriers,204127.1251,3798.142334,Forecast
+1/7/2030,2030,AllCarriers,204570.6172,3801.795106,Forecast
+1/14/2030,2030,AllCarriers,205014.1093,3805.447879,Forecast
+1/21/2030,2030,AllCarriers,205457.6014,3809.100651,Forecast
+1/28/2030,2030,AllCarriers,205901.0935,3812.753424,Forecast
+2/4/2030,2030,AllCarriers,206344.5856,3816.406197,Forecast
+2/11/2030,2030,AllCarriers,206788.0777,3820.058969,Forecast
+2/18/2030,2030,AllCarriers,207231.5698,3823.711742,Forecast
+2/25/2030,2030,AllCarriers,207675.0619,3827.364514,Forecast
+3/4/2030,2030,AllCarriers,208118.554,3831.017287,Forecast
+3/11/2030,2030,AllCarriers,208562.0461,3834.67006,Forecast
+3/18/2030,2030,AllCarriers,209005.5382,3838.322832,Forecast
+3/25/2030,2030,AllCarriers,209449.0303,3841.975605,Forecast
+4/1/2030,2030,AllCarriers,209892.5224,3845.628377,Forecast
+4/8/2030,2030,AllCarriers,210336.0145,3849.28115,Forecast
+4/15/2030,2030,AllCarriers,210779.5066,3852.933923,Forecast
+4/22/2030,2030,AllCarriers,211222.9987,3856.586695,Forecast
+4/29/2030,2030,AllCarriers,211666.4908,3860.239468,Forecast
+5/6/2030,2030,AllCarriers,212109.983,3863.89224,Forecast
+5/13/2030,2030,AllCarriers,212553.4751,3867.545013,Forecast
+5/20/2030,2030,AllCarriers,212996.9672,3871.197785,Forecast
+5/27/2030,2030,AllCarriers,213440.4593,3874.850558,Forecast
+6/3/2030,2030,AllCarriers,213883.9514,3878.503331,Forecast
+6/10/2030,2030,AllCarriers,214327.4435,3882.156103,Forecast
+6/17/2030,2030,AllCarriers,214770.9356,3885.808876,Forecast
+6/24/2030,2030,AllCarriers,215214.4277,3889.461648,Forecast
+7/1/2030,2030,AllCarriers,215657.9198,3893.114421,Forecast
+7/8/2030,2030,AllCarriers,216101.4119,3896.767193,Forecast
+7/15/2030,2030,AllCarriers,216544.904,3900.419966,Forecast
+7/22/2030,2030,AllCarriers,216988.3961,3904.072739,Forecast
